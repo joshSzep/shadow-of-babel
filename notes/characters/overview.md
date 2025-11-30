@@ -68,9 +68,9 @@ These appear across multiple POV sections but don't have their own chapters:
 
 ### Political Figures
 - **President Teannaki Kamoriki**: President of Kiribati, host nation leader, ascending for the first time after refusing for decades (see `president_teannaki.md`)
-- **Director Kenji Nakamura**: Consortium executive overseeing the voyage
-- **Ambassador Priya Sharma**: Indian diplomat advocating for access reform
-- **Senator Maria Gutierrez**: American politician with orbital industry ties
+- **Director Kenji Nakamura**: Consortium executive overseeing the voyage, pragmatic power broker (see `director_nakamura.md`)
+- **Ambassador Priya Sharma**: Indian diplomat advocating for access reform, principled reformer (see `ambassador_sharma.md`)
+- **Senator Maria Gutierrez**: American politician with orbital industry ties, compromised idealist (see `senator_gutierrez.md`)
 
 ### Crew and Staff
 - **Captain Elara Osei**: Commander of the climber, Ghanaian aviation veteran (see `crew_captain_osei.md`)
@@ -80,10 +80,10 @@ These appear across multiple POV sections but don't have their own chapters:
 - **Lieutenant Mei Chen**: Communications Officer and Public Affairs, Taiwanese-American (see `crew_chen.md`)
 
 ### Other Passengers
-- **Reverend Thomas Whitmore**: Babel Church leader
-- **Lin Xiaoming**: Tech billionaire, first-time ascender
-- **The Reyes Family**: Lottery winners traveling together
-- **Kwame Asante**: Grounded activist who somehow boarded
+- **Reverend Thomas Whitmore**: Founder of the Church of the Ascent (Babel Church), seeking first-hand revelation (see `passenger_whitmore.md`)
+- **Lin Xiaoming**: Chinese tech billionaire and critic, first-time ascender documenting inequality (see `passenger_lin.md`)
+- **The Reyes Family**: Filipino-American lottery winners—Elena (grandmother), Marco (son), Sofia (granddaughter), Carmen (aunt) (see `passenger_reyes_family.md`)
+- **Kwame Asante**: Grounded movement activist who somehow boarded, purpose unknown (see `passenger_asante.md`)
 
 ### Background Figures
 - **Takeshi Yamazaki**: The Founder, Japanese industrialist who drove the elevator's creation, deceased 2079 (see `founder_takeshi.md`)
