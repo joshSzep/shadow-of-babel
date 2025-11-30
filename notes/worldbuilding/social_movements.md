@@ -194,6 +194,8 @@ Syncretic movements that see ascent as spiritual:
 
 ## Youth Movements
 
+There is a distinct youth culture around the elevator:
+
 ### Born Into Babel
 
 A generation that has never known a world without the elevator:
