@@ -67,6 +67,7 @@ A veteran reporter covering the maiden voyage for a global network. Navigating b
 These appear across multiple POV sections but don't have their own chapters:
 
 ### Political Figures
+- **President Teannaki Kamoriki**: President of Kiribati, host nation leader, ascending for the first time after refusing for decades (see `president_teannaki.md`)
 - **Director Kenji Nakamura**: Consortium executive overseeing the voyage
 - **Ambassador Priya Sharma**: Indian diplomat advocating for access reform
 - **Senator Maria Gutierrez**: American politician with orbital industry ties
