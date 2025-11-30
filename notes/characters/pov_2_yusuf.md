@@ -40,9 +40,12 @@
 - Saw friends die. Saw management shrug. Saw the tether rise anyway.
 
 ### Seven Years in the Sky
-- Worked tether assembly in orbit—the most dangerous job
+- First assignment: anchor platform construction in Te Rarawa
+- Then tether assembly—the Thickening phase, strengthening the ribbon
 - EVA specialist: outside the structure, exposed to vacuum
+- Climbed the bootstrap line when it was barely thick enough to hold him
 - Lost two fingers when a faulty clamp failed; company blamed him
+- **March 14, 2061: The Capture**—Yusuf was on the crew that secured the first ribbon to Earth
 - Watched the structure grow under his hands
 - Felt pride despite everything—he built this
 
