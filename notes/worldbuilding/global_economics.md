@@ -163,11 +163,79 @@ The construction workforce came from around the world:
 
 ### The Lottery System
 
-- Implemented after protests demanded public access
-- Billions enter; hundreds ascend annually
-- Run by international commission (but corrupted by interests)
-- Winners become celebrities; some sell tickets illegally
-- A pressure valve: the illusion of access without the reality
+Half of all passenger berths on each voyage are allocated through the Babel Passage Lottery—the Consortium's answer to labor protests that threatened to shut down operations in 2071. It is presented as proof that the elevator belongs to all humanity. It is experienced as a gauntlet.
+
+**Administration**
+- Run directly by the Consortium's Public Access Division
+- Theoretically independent; in practice, rife with whispered corruption
+- Regional offices in every major nation handle local processing
+- The system's opacity breeds conspiracy theories—some true
+
+**Eligibility**
+- Any Earth citizen may apply
+- But application is not automatic; *justification is required*
+- Applicants must demonstrate "meaningful contribution to human advancement"
+- This includes: scientific work, artistic achievement, community leadership, educational impact, humanitarian service, or "exceptional circumstances"
+- The bar is intentionally vague—high enough to exclude, low enough to create hope
+- The stated purpose: ensure lottery winners are "ambassadors for humanity," not just random bodies
+- The unstated purpose: create a diverse pool of impressive people to balance voyages dominated by the ultra-wealthy who simply purchase their passage
+
+**The Tournament of Worthiness**
+Entry is free, but selection is brutal:
+
+1. **Application Phase**: Written justification, documentation, references
+2. **Regional Review**: Consortium officials assess "merit and impact"
+3. **Background Screening**: Criminal history, political affiliations, health assessments
+4. **Security Vetting**: Invasive and exhaustive—financial records, travel history, social connections, psychological evaluation
+5. **Interview Phase**: Finalists meet with panels; some regions conduct multiple rounds
+6. **Random Selection**: Among vetted finalists, luck determines passage
+
+The process takes months. Most applicants are eliminated before randomness enters the equation. Critics call it "a lottery with a velvet rope."
+
+**What Winners Receive**
+- **Passage only**: A berth on a single voyage, economy class
+- No spending money, no accommodations at the hub, no return guarantee
+- Winners can *visit* heaven but cannot *remain*
+- To stay in orbit requires employment, sponsorship, or wealth they don't have
+- Many return to Earth within days, having seen the future and been expelled from it
+
+**The Fine Print**
+Winners sign extensive agreements:
+- **Full bodily harm waivers**: The Consortium accepts no liability for injury, illness, psychological trauma, or death
+- **Publicity rights**: Winners grant unlimited use of their image, likeness, and story for Consortium promotion
+- **Conduct restrictions**: Strict behavioral codes; violations can result in removal from the voyage or blacklisting
+- **Speech limitations**: Non-disparagement clauses; what winners can say publicly about their experience is circumscribed
+- **Documentation requirements**: Must participate in designated media events, interviews, and promotional activities
+
+"They give you a ticket to heaven and ask you to sell your voice at the gate."
+
+**Historical Context**
+The lottery emerged from the **2071 Access Crisis**:
+- Construction workers, promised passage that never came, organized mass protests
+- The Builders' Union threatened to halt maintenance operations
+- Global sympathy swelled; the Consortium faced a legitimacy crisis
+- The lottery was announced as a "fundamental commitment to universal access"
+- Workers were not impressed—the lottery bypassed them entirely
+- But public pressure eased; the promise of possibility was enough for most
+- Nineteen years later, the lottery remains: a pressure valve, a spectacle, a half-kept promise
+
+**The Corruption Question**
+Rumors persist:
+- Regional officials accepting bribes for favorable vetting
+- Corporate sponsors fast-tracking preferred candidates
+- Political figures arranging passage for allies under lottery cover
+- Winners who seem suspiciously connected to Consortium interests
+- Investigations have been promised, commenced, and quietly abandoned
+- "Everyone knows the lottery is rigged. No one can prove it. That's the point."
+
+**Cultural Impact**
+- Lottery winners become instant celebrities in their communities
+- Some are celebrated; others resented as sellouts or lucky fools
+- The selection process itself is traumatic—months of hope, scrutiny, and judgment
+- Those who win carry the weight of representing "ordinary humanity"
+- Those who lose often apply again, year after year, until hope dies
+- A cottage industry of consultants promises to improve applications (for a fee)
+- The lottery has created a new social category: the *aspiring ascender*
 
 ### Financing and Debt
 

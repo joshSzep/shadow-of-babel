@@ -83,8 +83,8 @@ These appear across multiple POV sections but don't have their own chapters:
 - **Kwame Asante**: Grounded activist who somehow boarded
 
 ### Background Figures
-- **The Founder** (unnamed): Legend who drove the elevator's creation, deceased
-- **The Chairman** (unnamed): Current Consortium head, rarely seen
+- **Takeshi Yamazaki**: The Founder, Japanese industrialist who drove the elevator's creation, deceased 2079 (see `founder_takeshi.md`)
+- **Kenji Murakami**: The Chairman, Takeshi's protégé turned Consortium leader, a believer who compromised (see `chairman_kenji.md`)
 
 ---
 

@@ -21,9 +21,10 @@ Ambitious, visionary, philosophical, grounded in real inequality
 
 ```
 shadow-of-babel/
-├── worldbuilding/       # Environment, systems, and setting details
-├── characters/          # POV character backstories and profiles
-├── outline/             # Story structure and act breakdowns
+├── notes/               # Planning and reference materials
+│   ├── worldbuilding/       # Environment, systems, and setting details
+│   ├── characters/          # POV character backstories and profiles
+│   └── outline/             # Story structure and act breakdowns
 └── chapters/            # Draft chapters
 ```
 

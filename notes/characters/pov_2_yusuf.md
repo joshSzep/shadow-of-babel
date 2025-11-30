@@ -62,10 +62,14 @@
 - Watched the elevator every day; never stopped wanting to ride it
 
 ### The Ticket
-- Did he win the lottery? Or did he acquire a ticket another way?
-- The ambiguity matters: even the "fair" system is gamed
-- Yusuf's ticket represents something larger than one man
-- He boards carrying the weight of every worker denied
+- In 2066, during a site visit, Yusuf saved the life of Kenji Murakami—then Takeshi's protégé, now the Consortium Chairman
+- They spent four hours trapped together; Yusuf showed him the reality of construction conditions
+- Kenji promised to fix things. He won some battles. He lost the war.
+- Yusuf wrote to him twice. Kenji never responded.
+- Nineteen years later, a ticket arrives. No note. Just passage on the maiden voyage.
+- Yusuf knows exactly who sent it. He takes it anyway.
+- Is it a gift, a debt, an apology, or a summons? He doesn't know.
+- He's not sure if he's accepting absolution or picking up a weapon.
 
 ---
 

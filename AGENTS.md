@@ -29,24 +29,25 @@ This document serves as a comprehensive map for AI assistants working on this no
 shadow-of-babel/
 ├── AGENTS.md                 # This file — LLM navigation guide
 ├── README.md                 # Project overview for human readers
-├── worldbuilding/            # Setting, technology, society
-│   ├── anchor_city.md        # The equatorial megacity at the tether's base
-│   ├── orbital_hub.md        # The geostationary destination station
-│   ├── elevator_structure.md # Technical details of the tether itself
-│   ├── climber_design.md     # The passenger vessel's interior and systems
-│   ├── global_economics.md   # Economic transformation and inequality
-│   ├── political_landscape.md# Governance, power, and jurisdiction
-│   └── social_movements.md   # Protests, factions, religious responses
-├── characters/               # POV characters and supporting cast
-│   ├── overview.md           # Character summaries and ensemble dynamics
-│   ├── pov_1_miriam.md       # Miriam Okonkwo — The Architect
-│   ├── pov_2_yusuf.md        # Yusuf Haddad — The Builder
-│   ├── pov_3_zara.md         # Zara Chen-Okafor — The Scholarship Student
-│   ├── pov_4_henrik.md       # Henrik Lindqvist — The Industrialist
-│   └── pov_5_amara.md        # Amara Diallo — The Journalist
-├── outline/                  # Story structure and planning
-│   ├── structure.md          # Narrative framework, POV rotation, pacing
-│   └── act_breakdown.md      # Detailed 5-act chapter-by-chapter breakdown
+├── notes/                    # Planning and reference materials
+│   ├── worldbuilding/        # Setting, technology, society
+│   │   ├── anchor_city.md        # The equatorial megacity at the tether's base
+│   │   ├── orbital_hub.md        # The geostationary destination station
+│   │   ├── elevator_structure.md # Technical details of the tether itself
+│   │   ├── climber_design.md     # The passenger vessel's interior and systems
+│   │   ├── global_economics.md   # Economic transformation and inequality
+│   │   ├── political_landscape.md# Governance, power, and jurisdiction
+│   │   └── social_movements.md   # Protests, factions, religious responses
+│   ├── characters/           # POV characters and supporting cast
+│   │   ├── overview.md           # Character summaries and ensemble dynamics
+│   │   ├── pov_1_miriam.md       # Miriam Okonkwo — The Architect
+│   │   ├── pov_2_yusuf.md        # Yusuf Haddad — The Builder
+│   │   ├── pov_3_zara.md         # Zara Chen-Okafor — The Scholarship Student
+│   │   ├── pov_4_henrik.md       # Henrik Lindqvist — The Industrialist
+│   │   └── pov_5_amara.md        # Amara Diallo — The Journalist
+│   └── outline/              # Story structure and planning
+│       ├── structure.md          # Narrative framework, POV rotation, pacing
+│       └── act_breakdown.md      # Detailed 5-act chapter-by-chapter breakdown
 └── chapters/                 # Draft chapters (when writing begins)
 ```
 
@@ -81,7 +82,7 @@ The confrontation between the architect who designed the elevator and the worker
 
 | Act | Location | Duration | Emotional Arc |
 |-----|----------|----------|---------------|
-| **I: Ground** | Anchor city, boarding | Day 1 | Anticipation → Departure |
+| **I: Ground** | Te Rarawa (anchor city), boarding | Day 1 | Anticipation → Departure |
 | **II: Ascent Begins** | Lower atmosphere to space | Days 1–2 | Awe → Emerging tension |
 | **III: Mid-Ascent** | Deep space, mid-point | Days 3–4 | Confrontation → Crisis |
 | **IV: High Altitude** | Upper reaches | Days 5–6 | Reflection → Clarity |
@@ -121,6 +122,13 @@ The novel explores these through lived experience, not speeches:
 - Protests demand open access; "The Grounded" reject ascent entirely
 - Orbit is becoming a new frontier of extraction and inequality
 
+### The Anchor City: Te Rarawa
+- Purpose-built city in the central Pacific, on what was the Phoenix Islands
+- Kiribati is the host nation, under a 99-year "Phoenix Compact" lease
+- The Phoenix Islands Protected Area—once the world's largest marine reserve—was destroyed
+- Population ~3.4 million; I-Kiribati are now a minority (~8%) in their own waters
+- The city embodies the novel's central tension: miracle built on sacrifice
+
 ### The Climber
 - 200 meters tall, 500 passengers on maiden voyage
 - Class-segregated decks (economy below, luxury above)
@@ -157,7 +165,7 @@ The novel explores these through lived experience, not speeches:
 
 These are the structural pillars of the narrative:
 
-1. **The Anchor City arrival** — Establishing awe and inequality
+1. **Te Rarawa arrival** — Establishing awe and inequality; the city built on sacrifice
 2. **Boarding sequence** — Class separation made architectural
 3. **First observation deck gathering** — Shared wonder across lines
 4. **The corporate reception** — Henrik's world, Zara's discomfort
@@ -174,7 +182,7 @@ These are the structural pillars of the narrative:
 
 ### Before Writing Any Content
 1. Read relevant character files for voice and motivation
-2. Check `outline/act_breakdown.md` for scene placement
+2. Check `notes/outline/act_breakdown.md` for scene placement
 3. Review worldbuilding files for setting details
 4. Understand where the scene fits in character arcs
 
@@ -230,17 +238,17 @@ The novel does not provide neat answers:
 
 | File | When to Consult |
 |------|-----------------|
-| `characters/overview.md` | Understanding ensemble dynamics, adding characters |
-| `characters/pov_*.md` | Writing any scene from that character's POV |
-| `worldbuilding/anchor_city.md` | Act I scenes, ground-level sequences |
-| `worldbuilding/orbital_hub.md` | Act V scenes, arrival sequences |
-| `worldbuilding/climber_design.md` | Any scene aboard the vessel |
-| `worldbuilding/elevator_structure.md` | Technical details, the tether itself |
-| `worldbuilding/global_economics.md` | Class dynamics, access questions |
-| `worldbuilding/political_landscape.md` | Consortium, governance, jurisdiction |
-| `worldbuilding/social_movements.md` | Protests, activism, religious elements |
-| `outline/structure.md` | Overall narrative framework |
-| `outline/act_breakdown.md` | Specific chapter planning |
+| `notes/characters/overview.md` | Understanding ensemble dynamics, adding characters |
+| `notes/characters/pov_*.md` | Writing any scene from that character's POV |
+| `notes/worldbuilding/anchor_city.md` | Act I scenes, ground-level sequences |
+| `notes/worldbuilding/orbital_hub.md` | Act V scenes, arrival sequences |
+| `notes/worldbuilding/climber_design.md` | Any scene aboard the vessel |
+| `notes/worldbuilding/elevator_structure.md` | Technical details, the tether itself |
+| `notes/worldbuilding/global_economics.md` | Class dynamics, access questions |
+| `notes/worldbuilding/political_landscape.md` | Consortium, governance, jurisdiction |
+| `notes/worldbuilding/social_movements.md` | Protests, activism, religious elements |
+| `notes/outline/structure.md` | Overall narrative framework |
+| `notes/outline/act_breakdown.md` | Specific chapter planning |
 
 ---
 
