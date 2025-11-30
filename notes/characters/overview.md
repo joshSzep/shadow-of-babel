@@ -73,9 +73,11 @@ These appear across multiple POV sections but don't have their own chapters:
 - **Senator Maria Gutierrez**: American politician with orbital industry ties
 
 ### Crew and Staff
-- **Captain Elara Osei**: Commander of the climber
-- **Chief Steward Dmitri Volkov**: Manages passenger relations
-- **Dr. Aisha Rahman**: Chief Medical Officer
+- **Captain Elara Osei**: Commander of the climber, Ghanaian aviation veteran (see `crew_captain_osei.md`)
+- **Chief Steward Dmitri Volkov**: Head of passenger relations, Russian hospitality expert (see `crew_volkov.md`)
+- **Dr. Aisha Rahman**: Chief Medical Officer, Bangladeshi-Canadian emergency physician (see `crew_rahman.md`)
+- **Chief Engineer Okonkwo Adeyemi**: Head of climber systems, Nigerian tether construction veteran (see `crew_adeyemi.md`)
+- **Lieutenant Mei Chen**: Communications Officer and Public Affairs, Taiwanese-American (see `crew_chen.md`)
 
 ### Other Passengers
 - **Reverend Thomas Whitmore**: Babel Church leader
