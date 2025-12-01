@@ -7,7 +7,7 @@
 **Nationality:** Jordanian
 **Former Profession:** Elevator Construction Worker (Tether Assembly Specialist)
 **Current Profession:** Anchor City Dockworker, Union Organizer
-**Role on Maiden Voyage:** Lottery Winner (or by other means)
+**Role on Maiden Voyage:** Discretionary Ticket Recipient (sent anonymously by Chairman Kenji Murakami)
 
 ---
 

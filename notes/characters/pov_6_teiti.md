@@ -77,7 +77,7 @@
 
 ### The Years Since
 - Never left Te Rarawa—where would she go? Tarawa is drowning; Babel is built on her youth
-- Raised her grandson **Tokanang** (Tebuke's son) after Tebuke died of radiation-linked cancer in 2078
+- Took in her teenage grandson **Tokanang** (Tebuke's son) after Tebuke died of radiation-linked cancer in 2078; he was 15 when orphaned
 - Became a keeper of memory: oral histories, traditional practices, the names of the dead
 - Leads *Te Rii ni Banaba*—the underground movement preserving I-Kiribati identity
 - Maintains the **Shadow Memorial** in the Workers' Quarter

@@ -234,8 +234,9 @@ The elevator has become a religious and philosophical symbol:
 4. **The Lottery Office**: Where hope is distributed and often crushed
 5. **The Protest Camps**: Permanent encampments demanding open access
 6. **The Night Market**: Where anything can be bought, including forged credentials
-7. **The Memorial Wall (Te Tia ni Mate—"The Standing of the Dead")**: Names of workers who died building Babel; maintained by the Builders' Union, not the Consortium
-8. **The Reef Museum**: A small aquarium preserving species from the destroyed ecosystem; beautiful and damning
+7. **The Memorial Wall (Te Tia ni Mate—"The Standing of the Dead")**: Official monument listing the 847 Black Day dead; controlled by the Consortium, which decides whose names appear
+8. **The Shadow Memorial**: Unauthorized memorial in the Workers' Quarter maintained by the Builders' Union; lists all worker deaths, including those the Consortium won't acknowledge
+9. **The Reef Museum**: A small aquarium preserving species from the destroyed ecosystem; beautiful and damning
 9. **Kanton Village**: The original settlement, now a "heritage zone" surrounded by the city; a few dozen elders remain
 10. **The Maneaba**: A traditional meeting house rebuilt near the Service Zone; where I-Kiribati gather, organize, and remember
 
