@@ -12,6 +12,8 @@ The Babel Elevator was built by millions of workers over four decades. Their lab
 
 On September 14, 2062, a catastrophic ribbon break during the Thickening phase killed 847 workers—the single deadliest day in the elevator's construction. The break occurred at approximately 8,000 km altitude during a repair operation. The lower section whipped downward; recovery crews were caught in the debris field.
 
+> **Note:** Black Day is distinct from the **Anchor Collapse** of October 2065, a subsea structural failure that killed 23 workers including Teiti Nakibae's husband Teriki. See `pov_6_teiti.md` for details on the Anchor Collapse.
+
 The Consortium declared three days of mourning. Construction resumed on day four.
 
 ### The First Reckoning
@@ -39,6 +41,46 @@ This promise was:
 - Never codified in contracts
 - Vague on timing, conditions, and definitions
 - The foundation of a betrayal that would echo for decades
+
+---
+
+## The Anchor Collapse (October 2065)
+
+### The Disaster
+
+Three years after Black Day, another disaster struck—this time not in the sky, but beneath the sea.
+
+On the night of October 17, 2065, a subsea anchor reinforcement structure failed at the base of the tether. The collapse occurred 40 meters below the surface during a night shift. Twenty-three workers died, trapped in the flooding compartments or crushed by collapsing infrastructure.
+
+> **Note:** The Anchor Collapse is distinct from **Black Day** (September 14, 2062), the high-altitude ribbon break that killed 847 workers. Both disasters are commemorated separately, though the Consortium often conflates them in official memorials.
+
+### The Cause
+
+Subsequent investigation—much of it suppressed—revealed:
+
+- **Faulty welds**: Subcontractor had used inferior materials to meet cost targets
+- **Rushed timelines**: The reinforcement was accelerated to meet a political deadline
+- **Ignored warnings**: Three separate safety reports had flagged concerns in the weeks prior
+- **Inadequate oversight**: Night shift supervision was minimal; experienced supervisors had been rotated out
+
+The Consortium blamed "unforeseen geological factors." Workers knew better.
+
+### The Dead
+
+Among the 23 killed was **Teriki Nakibae**, an I-Kiribati diver whose expertise in underwater construction—inherited from generations of reef navigation—had made him invaluable to the project. His widow, **Teiti Nakibae**, would become one of the most significant figures in the labor movement that followed.
+
+Other victims included workers from the Philippines, Bangladesh, Indonesia, Kenya, and Brazil. Most were specialists—welders, divers, structural engineers—whose skills had been essential and whose deaths were preventable.
+
+### The Response
+
+- The Consortium offered compensation packages contingent on non-disclosure agreements
+- Teiti Nakibae refused to sign; she organized the first memorial that forced the Consortium to publicly acknowledge the dead
+- The disaster accelerated the formation of what would become the Builders' Union
+- Safety protocols for subsea work were enhanced—but only after the structure was already compromised
+
+### Legacy
+
+The Anchor Collapse receives less attention than Black Day in official histories—23 dead versus 847. But for the I-Kiribati community and the subsea construction crews, it was their Black Day. The names of the 23 are inscribed on the **Shadow Memorial** in the Workers' Quarter, maintained by Teiti and the Builders' Union, separate from the Consortium's official Memorial Wall.
 
 ---
 

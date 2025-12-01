@@ -56,6 +56,9 @@
 - She was the one who organized the first unauthorized memorial after Black Day
 
 **October 2065: Teriki's Death (The Anchor Collapse)**
+
+> **Note:** The Anchor Collapse is distinct from **Black Day** (September 14, 2062), the ribbon break that killed 847 workers at high altitude. See `labor_history.md` for details on Black Day.
+
 - Teriki was among 23 workers killed when a subsea anchor reinforcement structure failed
 - The collapse occurred 40 meters below the surface during a night shift
 - Faulty welds, rushed timelines, ignored safety warnings

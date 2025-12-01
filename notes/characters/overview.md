@@ -25,7 +25,7 @@ The engineer who solved the tether's final structural problem. She made Babel po
 ### 2. Yusuf Haddad — The Builder
 **File:** `pov_2_yusuf.md`
 
-A construction worker who spent seven years building the elevator. Promised passage that was never honored. Wins a lottery ticket—or acquires one through other means. Ascending the structure he built with his own hands.
+A construction worker who spent seven years building the elevator. Promised passage that was never honored. Receives a ticket from Kenji Murakami—the Consortium Chairman whose life he saved nineteen years ago—sent without a note or explanation. Ascending the structure he built with his own hands.
 
 **Relationship to Awe:** Built it, never thought he'd ride it
 **Relationship to Shadow:** He is the shadow made flesh

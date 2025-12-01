@@ -50,7 +50,7 @@ The goal is not to detail all 500, but to create enough texture that any scene c
 |-------------|-------|-------|
 | Global lottery winners | ~100 | Selected from billions of entries worldwide |
 | National allocation passengers | ~40 | Tickets distributed by participating governments |
-| Scholarship and fellowship recipients | ~30 | Students, artists, young professionals (like Zara) |
+| Scholarship and fellowship recipients | ~30 | 12 Stellar Foundation scholars (including Zara) + ~18 from other programs |
 | Worker passage honorees | ~20 | Construction workers, service staff given promised tickets |
 | Advocacy and NGO representatives | ~10 | Civil society observers, accessibility advocates |
 
