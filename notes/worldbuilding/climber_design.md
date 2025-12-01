@@ -231,11 +231,15 @@ The climber is organized into **stacked decks**, each with distinct character:
 For the story's central journey:
 
 ### Passenger Manifest
-- **200 VIPs**: investors, politicians, celebrities
-- **150 workers**: engineers, crew, maintenance (but few construction workers)
-- **100 lottery winners**: from global draw
-- **50 journalists**: carefully selected
-- **Unspecified others**: students, activists (some with hidden agendas)
+**500 passengers** distributed across four class tiers:
+- **~80 Premium Deck**: Consortium executives, corporate guests, dignitaries, celebrities
+- **~120 Business Deck**: Middle management, journalists, scientists, technical staff
+- **~200 Standard Deck**: Global lottery winners, national allocations, scholarship recipients, worker honorees
+- **~100 Economy Deck**: Secondary lottery, worker compensation passengers, humanitarian cases
+
+An additional **~75 crew and staff** are aboard but not counted as passengers.
+
+*(See `notes/characters/passenger_manifest.md` for detailed breakdown)*
 
 ### Special Features
 - Historic occasion programming
