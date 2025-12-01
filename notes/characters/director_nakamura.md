@@ -123,7 +123,7 @@ Public remarks: "The maiden voyage represents decades of international cooperati
 
 To Henrik (mentoring): "The Lindqvist Foundation's work in orbital sustainability is exactly the kind of leadership we need. Not just investment, but vision. Your father understood that. I think you do too. Have you considered a more formal role in Consortium governance?"
 
-Private assessment: "Teannaki is playing her own game. I gave her the invitation as a gesture; she accepted it as a move. Watch her during the reception—she's not here to celebrate. She's here to extract something. I want to know what."
+Private assessment: "Teannaki is playing his own game. I gave him the invitation as a gesture; he accepted it as a move. Watch him during the reception—he's not here to celebrate. He's here to extract something. I want to know what."
 
 To Amara (deflecting): "I appreciate the question, Ms. Diallo. Worker access has always been a Consortium priority. The lottery system was specifically designed to ensure that those who built the tether have the opportunity to experience it. The statistics speak for themselves. Perhaps we could arrange an interview with some of the lottery winners?"
 

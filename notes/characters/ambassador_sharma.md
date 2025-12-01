@@ -22,7 +22,7 @@ Her voice is her instrument: modulated, precise, capable of cutting through nois
 ## Background
 
 ### Early Life
-Born in Jaipur, 1034, into a family of civil servants and activists. Her grandfather marched with Gandhi; her mother was a labor organizer; her father served in the Indian Administrative Service. Public service was the family inheritance.
+Born in Jaipur, 2034, into a family of civil servants and activists. Her grandfather marched with Gandhi; her mother was a labor organizer; her father served in the Indian Administrative Service. Public service was the family inheritance.
 
 Studied law at Delhi University, then international relations at Oxford on scholarship. Planned to return to India and work in labor rights. Fate—and the Consortium's rise—intervened.
 
@@ -64,7 +64,7 @@ Beneath the diplomatic polish is anger she rarely shows. Anger at the Consortium
 Adversarial respect. They've negotiated across tables for years. He sees her as an obstacle to smooth operations; she sees him as the embodiment of institutional callousness. They're unfailingly polite. Neither trusts the other. Occasionally, they find common ground on minor issues, which neither acknowledges as progress.
 
 ### With President Teannaki
-A genuine alliance. Two women from nations diminished by the Consortium's structure, both using the maiden voyage to advance their peoples' interests. They coordinate privately, support each other publicly, and share a gallows humor about their roles. Priya considers Teannaki a friend—rare in her world.
+A genuine alliance. Two leaders from nations diminished by the Consortium's structure, both using the maiden voyage to advance their peoples' interests. They coordinate privately, support each other publicly, and share a gallows humor about their roles. Priya considers Teannaki a friend—rare in her world.
 
 ### With Senator Gutierrez
 Wary. Gutierrez represents American interests that often conflict with access reform. They've clashed in committee. But Priya has noticed moments when Gutierrez seems uneasy with her own positions—potential cracks in the opposition.
