@@ -250,7 +250,7 @@ The elevator has become a religious and philosophical symbol:
 **2042**: Environmental impact studies leaked; global protests
 **2047**: Phoenix Compact signed; PIPA dissolved; construction begins
 **2055**: Platform foundation complete; first workers arrive
-**2062**: Primary construction accident kills 847; the "Black Week"
+**2062**: Primary construction accident kills 847; the "Black Day"
 **2075**: Tether operational; first cargo climbers
 **2083**: First crewed test ascents
 **2085**: Maiden public voyage (the novel's present)

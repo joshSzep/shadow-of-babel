@@ -6,7 +6,7 @@ The Babel Elevator was built by millions of workers over four decades. Their lab
 
 ---
 
-## The Black Week Aftermath (2062–2065)
+## The Black Day Aftermath (2062–2065)
 
 ### The Disaster
 
@@ -306,10 +306,10 @@ Conspicuously absent: construction workers.
 
 ### The Memorial Wall Confrontation (September 14, 2084)
 
-On the 22nd anniversary of Black Week, workers attempted to expand the Memorial Wall.
+On the 22nd anniversary of Black Day, workers attempted to expand the Memorial Wall.
 
 **The Issue:**
-- The official Wall listed 847 names—the Black Week dead
+- The official Wall listed 847 names—the Black Day dead
 - Workers wanted to add names of those who died in other incidents, or from radiation exposure, or from industrial illness
 - The Consortium controlled the Wall and had never added a name since its creation
 
@@ -381,7 +381,7 @@ In the months before departure, **The Queue**—a decentralized direct action ne
 
 ### Mama Teiti Nakibae
 **Role:** Founding leader of the Builders' Union, now elder statesperson
-**Background:** I-Kiribati woman who worked construction from 2047–2068; lost her husband Teriki in the Climber 17 disaster (one of the Twelve)
+**Background:** I-Kiribati woman who worked construction from 2047–2068; lost her husband Teriki in the 2065 Anchor Collapse (a subsea structural failure that killed 23 workers)
 **Current status:** Officially retired; still consulted on major decisions; one of the 150 workers on the maiden voyage
 **Significance:** Represents the intersection of labor exploitation and indigenous displacement; a moral authority within the movement
 **Note:** Teiti is a **POV character**—see `notes/characters/pov_6_teiti.md` for full profile

@@ -65,7 +65,7 @@ A veteran reporter covering the maiden voyage for a global network. Navigating b
 ### 6. Teiti Nakibae — The Elder
 **File:** `pov_6_teiti.md`
 
-An I-Kiribati elder who helped build the anchor city on the ruins of her homeland's waters. Lost her husband in the Climber 17 disaster. Founding leader of the Builders' Union. Ascending as a witness—to the dead, to what was destroyed, to what was built in its place.
+An I-Kiribati elder who helped build the anchor city on the ruins of her homeland's waters. Lost her husband in a construction accident. Founding leader of the Builders' Union. Ascending as a witness—to the dead, to what was destroyed, to what was built in its place.
 
 **Relationship to Awe:** She built it; it cost her everything
 **Relationship to Shadow:** She *is* the shadow—the displaced, the erased, the one who remembers

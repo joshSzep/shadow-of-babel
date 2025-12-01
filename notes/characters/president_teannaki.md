@@ -189,6 +189,15 @@ But he has conditions:
 - He wants to ask her: "Did you think about us? Did you think about the reef?"
 - He's not sure he wants to hear the answer.
 
+### Teiti Nakibae (née Kamoriki)
+- His distant cousin—the Kamoriki family is large, scattered across the atolls; they share great-grandparents from Abaiang
+- She was already a union leader when he entered politics
+- They haven't spoken in decades; the Compact stands between them
+- She thinks he compromised too much; he thinks she never understood the impossible choices
+- Her presence on the maiden voyage complicates his—two Kamorikins, two different answers to the same wound
+- He respects her; he also resents that she gets to be pure in her opposition
+- If they speak on the voyage, it will be careful, painful, unresolved
+
 ### Yusuf Haddad
 - They've never met
 - But Teannaki knows Yusuf's story—or a version of it

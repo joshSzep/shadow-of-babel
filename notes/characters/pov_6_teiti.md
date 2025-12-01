@@ -53,16 +53,17 @@
 - Teriki was reassigned to high-altitude tether assembly
 - Teiti remained ground-side, moved into safety coordination
 - Became an advocate for worker conditions; clashed with management repeatedly
-- She was the one who organized the first unauthorized memorial after Black Week
+- She was the one who organized the first unauthorized memorial after Black Day
 
-**March 2068: Teriki's Death (The Climber 17 Disaster)**
-- Teriki was one of the Twelve—killed when Climber 17 suffered a drive failure at 12,000 km altitude
-- The bootstrap climber carrying repair materials fell for 47 minutes before recovery systems engaged
-- All 12 crew members died—workers from the Philippines, Indonesia, and Kiribati
-- Teiti received the news in the dispatch office; finished her shift before she wept
-- His body was never recovered; the void took him
+**October 2065: Teriki's Death (The Anchor Collapse)**
+- Teriki was among 23 workers killed when a subsea anchor reinforcement structure failed
+- The collapse occurred 40 meters below the surface during a night shift
+- Faulty welds, rushed timelines, ignored safety warnings
+- Teriki's diving expertise—his I-Kiribati inheritance—was why he was there
+- Teiti received the news at dawn; she had just finished her own shift
+- His body was recovered three days later; she buried him in the reef he'd helped destroy
 - She wore black for a year; then she wore fury
-- She organized the memorial that made "Remember the Twelve" a rallying cry
+- She organized the memorial that made the Consortium acknowledge the dead
 
 **The 2071 Crisis**
 - Founding leader of the Builders' Union coalition that threatened to halt maintenance
@@ -115,7 +116,7 @@
 ## Relationships
 
 ### Personal
-- **Teriki Nakibae** (husband, deceased March 2068): The love of her life; one of the Twelve killed in the Climber 17 disaster; his death made her who she is
+- **Teriki Nakibae** (husband, deceased October 2065): The love of her life; killed in the Anchor Collapse when a subsea reinforcement structure failed; his death made her who she is
 - **Banuera Nakibae** (son, deceased 2078): Lived long enough to see his father's killers flourish
 - **Tokanang Nakibae** (grandson, 22): Her reason to continue; brilliant, angry, torn between worlds
 - **Her community**: The I-Kiribati of Te Rarawa; perhaps 270,000 people who remember where they came from
@@ -131,7 +132,7 @@
 - **Henrik Lindqvist**: The class of people who profited while her people drowned
 - **Amara Diallo**: A journalist who might actually tell the truth—or might not
 - **Zara Chen-Okafor**: Young, promising, about to be used—Teiti recognizes the pattern
-- **President Teannaki**: Her distant cousin; they haven't spoken in decades; the Compact stands between them
+- **President Teannaki Kamoriki**: Her distant cousin—the Kamoriki family is large, scattered across the atolls; they share great-grandparents from Abaiang. They haven't spoken in decades; the Compact stands between them. She thinks he compromised too much; he thinks she never understood the impossible choices.
 
 ---
 
