@@ -62,7 +62,7 @@ The six POVs are not strictly alternating. Instead:
 The novel has two pivotal confrontations, both in the middle-to-late voyage:
 
 1. **Miriam-Yusuf (Act III)**: The architect and the builder. About labor, promises, exploitation.
-2. **Teiti-Miriam (Act III/IV)**: The architect and the displaced. About homeland, erasure, knowledge.
+2. **Teiti-Miriam (Act III)**: The architect and the displaced. About homeland, erasure, knowledge.
 
 These are not redundant—they ask different questions. Yusuf asks: *What do you owe those who built your dream?* Teiti asks: *Did you know what would be destroyed? Did you care?*
 

@@ -538,7 +538,7 @@ Amara files her official report: the voyage, the awe, the achievement. Accurate,
 **POV:** Teiti
 **Location:** Observation deck, then chapel/meditation space
 
-The spiritual climax. Teiti has gathered the I-Kiribati workers, but others come too—workers of other nationalities, a few passengers who've heard. In the chapel, in near-weightlessness, she leads a ceremony. She speaks the names of the dead: the 847 on the Memorial Wall, and the others—the ones whose names never made the list. Teriki Nakibae. Banuera Nakibae. The Twelve. The radiation dead. The drowned. The disappeared.
+The spiritual climax. Teiti has gathered the I-Kiribati workers, but others come too—workers of other nationalities, a few passengers who've heard. In the chapel, in near-weightlessness, she leads a ceremony. She speaks the names of the dead: the 847 on the Memorial Wall, and the others—the ones whose names never made the list. Teriki Nakibae. Tebuke Nakibae. The Twelve. The radiation dead. The drowned. The disappeared.
 
 She floats in the center of the space, an elder in woven mat, speaking names into the void. Some weep. Some don't know why they came. But they listen. They witness.
 

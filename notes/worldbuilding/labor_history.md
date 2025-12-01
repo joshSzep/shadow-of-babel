@@ -328,13 +328,13 @@ On the 22nd anniversary of Black Day, workers attempted to expand the Memorial W
 
 With the maiden voyage scheduled for August, the Builders' Union issued demands:
 
-- 200 of the 500 passenger berths must be allocated to construction workers
+- 100 of the 500 passenger berths must be allocated to construction workers
 - Workers, not the Consortium, would select who fills those seats
 - This was non-negotiable; the alternative was "actions that would make 2071 look like a rest break"
 
 **The Consortium's Position:**
 - The maiden voyage was "carefully balanced" for diplomatic and commercial purposes
-- Worker allocation had already been determined: 50 seats
+- Worker allocation had already been determined: 30 seats
 - These would go to "exemplary workers" selected by management
 - The Union's demands were "unrealistic and threatening"
 
@@ -342,7 +342,7 @@ With the maiden voyage scheduled for August, the Builders' Union issued demands:
 
 Negotiations lasted three weeks. The final agreement:
 
-- **150 seats** allocated to construction workers (not 200, not 50)
+- **50 seats** allocated to construction workers (not 100, not 30)
 - **The Consortium retained selection authority**—but agreed to consult with Union leadership
 - Workers selected must have "clean records"—a phrase the Union suspected would be weaponized
 - In exchange, the Union would publicly endorse the voyage as "a step toward access for all"
@@ -382,7 +382,7 @@ In the months before departure, **The Queue**—a decentralized direct action ne
 ### Mama Teiti Nakibae
 **Role:** Founding leader of the Builders' Union, now elder statesperson
 **Background:** I-Kiribati woman who worked construction from 2047–2068; lost her husband Teriki in the 2065 Anchor Collapse (a subsea structural failure that killed 23 workers)
-**Current status:** Officially retired; still consulted on major decisions; one of the 150 workers on the maiden voyage
+**Current status:** Officially retired; still consulted on major decisions; one of the 50 workers on the maiden voyage
 **Significance:** Represents the intersection of labor exploitation and indigenous displacement; a moral authority within the movement
 **Note:** Teiti is a **POV character**—see `notes/characters/pov_6_teiti.md` for full profile
 
@@ -413,7 +413,7 @@ In the months before departure, **The Queue**—a decentralized direct action ne
 
 ## Unresolved Questions
 
-1. **Who are the 150 workers on the maiden voyage?** How were they selected, and who was excluded?
+1. **Who are the 50 workers on the maiden voyage?** How were they selected, and who was excluded?
 2. **Is there a labor action planned during the voyage?** Some workers may intend to use the global platform for demonstration.
 3. **What is Yusuf's relationship to this history?** He was a builder; was he an organizer? Blacklisted? Complicit?
 4. **What happened to the workers who were deported?** Are any trying to return?

@@ -37,7 +37,7 @@
 ### The Phoenix Compact
 - Was 33 when the Compact was signed in 2047
 - Her husband **Teriki Nakibae** saw it as opportunity—better than watching Tarawa drown
-- They moved to the construction platform together with their young son Banuera
+- They moved to the construction platform together with their young son Tebuke
 - Among the first I-Kiribati workers on what would become Te Rarawa
 - She watched the reef she'd visited as a child buried under concrete
 
@@ -74,7 +74,7 @@
 
 ### The Years Since
 - Never left Te Rarawa—where would she go? Tarawa is drowning; Babel is built on her youth
-- Raised her grandson **Tokanang** (Banuera's son) after Banuera died of radiation-linked cancer in 2078
+- Raised her grandson **Tokanang** (Tebuke's son) after Tebuke died of radiation-linked cancer in 2078
 - Became a keeper of memory: oral histories, traditional practices, the names of the dead
 - Leads *Te Rii ni Banaba*—the underground movement preserving I-Kiribati identity
 - Maintains the **Shadow Memorial** in the Workers' Quarter
@@ -117,7 +117,7 @@
 
 ### Personal
 - **Teriki Nakibae** (husband, deceased October 2065): The love of her life; killed in the Anchor Collapse when a subsea reinforcement structure failed; his death made her who she is
-- **Banuera Nakibae** (son, deceased 2078): Lived long enough to see his father's killers flourish
+- **Tebuke Nakibae** (son, deceased 2078): Lived long enough to see his father's killers flourish
 - **Tokanang Nakibae** (grandson, 22): Her reason to continue; brilliant, angry, torn between worlds
 - **Her community**: The I-Kiribati of Te Rarawa; perhaps 270,000 people who remember where they came from
 
