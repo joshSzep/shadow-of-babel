@@ -44,7 +44,8 @@ shadow-of-babel/
 │   │   ├── pov_2_yusuf.md        # Yusuf Haddad — The Builder
 │   │   ├── pov_3_zara.md         # Zara Chen-Okafor — The Scholarship Student
 │   │   ├── pov_4_henrik.md       # Henrik Lindqvist — The Industrialist
-│   │   └── pov_5_amara.md        # Amara Diallo — The Journalist
+│   │   ├── pov_5_amara.md        # Amara Diallo — The Journalist
+│   │   └── pov_6_teiti.md        # Teiti Nakibae — The Elder
 │   └── outline/              # Story structure and planning
 │       ├── structure.md          # Narrative framework, POV rotation, pacing
 │       └── act_breakdown.md      # Detailed 5-act chapter-by-chapter breakdown
@@ -53,7 +54,7 @@ shadow-of-babel/
 
 ---
 
-## The Five POV Characters
+## The Six POV Characters
 
 Each character represents a different relationship to the elevator and its meaning. Their perspectives refract the themes of awe and shadow.
 
@@ -64,9 +65,13 @@ Each character represents a different relationship to the elevator and its meani
 | **Zara Chen-Okafor** | The Student | 22 | British (mixed heritage) | Can you change a system from inside it? |
 | **Henrik Lindqvist** | The Industrialist | 44 | Swedish | Can privilege be wielded for change? |
 | **Amara Diallo** | The Journalist | 39 | Senegalese-French | What story do we tell, and who decides? |
+| **Teiti Nakibae** | The Elder | 71 | I-Kiribati | What is owed to those whose world was erased? |
 
 ### Key Relationship: Miriam and Yusuf
 The confrontation between the architect who designed the elevator and the worker who built it (and was denied passage) is the **moral center of the novel**. This scene occurs in Act III and should be treated with particular care—it must be earned, complex, and unresolved.
+
+### Key Relationship: Teiti and Miriam
+Teiti represents the deepest cost of Babel—not just labor exploited, but a homeland destroyed. Her confrontation with Miriam asks the hardest question: did the creators know what would be lost, and did they care? This scene parallels the Miriam-Yusuf confrontation but asks about ecosystems and sovereignty rather than labor and promises.
 
 ---
 
@@ -158,6 +163,7 @@ The novel explores these through lived experience, not speeches:
 - **Zara**: Quick, curious, code-switching, humor as defense
 - **Henrik**: Smooth, strategic, self-narrating as protagonist
 - **Amara**: Observational, layered, professional distance cracking
+- **Teiti**: Patient, tidal, memory as resistance, grief worn gracefully
 
 ---
 
@@ -172,9 +178,11 @@ These are the structural pillars of the narrative:
 5. **Below decks** — Yusuf among workers and lottery winners
 6. **Miriam-Yusuf confrontation** — The moral center (Act III)
 7. **Technical crisis** — Miriam's expertise, competence and guilt
-8. **Weightlessness sequence** — Bodies transformed, perspectives shifted
-9. **The overview effect** — Earth from above, the view that changes people
-10. **Hub arrival** — The future, bright and ominous
+8. **Teiti-Miriam confrontation** — The cost of creation: what was destroyed?
+9. **Weightlessness sequence** — Bodies transformed, perspectives shifted
+10. **Teiti's ceremony** — Speaking the names of the dead in zero-gravity
+11. **The overview effect** — Earth from above, the view that changes people
+12. **Hub arrival** — The future, bright and ominous; Teiti's witnessing speech
 
 ---
 

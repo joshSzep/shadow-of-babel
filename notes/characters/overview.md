@@ -62,6 +62,16 @@ A veteran reporter covering the maiden voyage for a global network. Navigating b
 
 ---
 
+### 6. Teiti Nakibae — The Elder
+**File:** `pov_6_teiti.md`
+
+An I-Kiribati elder who helped build the anchor city on the ruins of her homeland's waters. Lost her husband in the Climber 17 disaster. Founding leader of the Builders' Union. Ascending as a witness—to the dead, to what was destroyed, to what was built in its place.
+
+**Relationship to Awe:** She built it; it cost her everything
+**Relationship to Shadow:** She *is* the shadow—the displaced, the erased, the one who remembers
+
+---
+
 ## Secondary Characters
 
 These appear across multiple POV sections but don't have their own chapters:
@@ -118,21 +128,33 @@ These appear across multiple POV sections but don't have their own chapters:
 - **Middle:** Drawn into the story, objectivity challenged
 - **End:** Decides what story to tell and what it costs
 
+### Teiti (Elder)
+- **Beginning:** Ascending as witness, refusing to be a symbol of acceptance
+- **Middle:** Confronts Miriam; observes the other confrontations; holds ceremony with I-Kiribati workers
+- **End:** Speaks at the arrival—not blessing, but witnessing; decides whether to stay or return
+
 ---
 
 ## Ensemble Dynamics
 
 ### Connections Between POVs
 - Miriam and Yusuf share history: she designed what he built
+- Miriam and Teiti share culpability: the architect and the displaced
+- Teiti and Yusuf share solidarity: both builders, both betrayed, different losses
 - Zara is traveling on a scholarship funded by Henrik's company
+- Teiti sees in Zara a young person being used—potential mentorship
 - Amara has interviewed Miriam before; has files on Henrik
-- All five will be in the same space at key moments
+- Amara sees in Teiti the story that matters—if she can tell it honestly
+- All six will be in the same space at key moments
 - Their paths cross naturally through the climber's structure
 
 ### Thematic Counterpoints
 - Miriam and Henrik: Creators with different relationships to creation
+- Miriam and Teiti: Creator and cost—the architect and the erased homeland
 - Yusuf and Zara: Different generations, different access points
+- Yusuf and Teiti: Shared rage, different losses—labor vs. homeland
 - Amara: The observer who becomes participant
+- Teiti: The witness who refuses to bless
 - Each sees the others through their own lens
 
 ---
@@ -142,5 +164,5 @@ These appear across multiple POV sections but don't have their own chapters:
 - Each POV should have a distinct voice and rhythm
 - Chapters alternate between POVs, not strictly rotating
 - Some moments seen from multiple perspectives (key scenes)
-- Interior monologue varies by character: Miriam is analytical, Yusuf is visceral, Zara is questioning, Henrik is justifying, Amara is observational
-- All five are sympathetic; none are villains; all are compromised
+- Interior monologue varies by character: Miriam is analytical, Yusuf is visceral, Zara is questioning, Henrik is justifying, Amara is observational, Teiti is patient and tidal
+- All six are sympathetic; none are villains; all are compromised

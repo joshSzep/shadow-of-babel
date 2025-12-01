@@ -4,7 +4,7 @@
 
 **Shadow of Babel** is structured around a single ascent of the Babel Elevator—a journey of approximately five to seven days from the anchor city on Earth to the orbital hub at 36,000 kilometers.
 
-The novel uses **multiple limited third-person POVs**, rotating between five protagonists whose perspectives refract the themes of awe, ambition, and inequality.
+The novel uses **multiple limited third-person POVs**, rotating between six protagonists whose perspectives refract the themes of awe, ambition, and inequality.
 
 ---
 
@@ -32,7 +32,7 @@ The novel uses **multiple limited third-person POVs**, rotating between five pro
 
 ## POV Rotation
 
-The five POVs are not strictly alternating. Instead:
+The six POVs are not strictly alternating. Instead:
 
 - Each Act emphasizes different characters based on dramatic needs
 - Some key scenes are shown from multiple perspectives (separated in time)
@@ -42,12 +42,13 @@ The five POVs are not strictly alternating. Instead:
 ### POV Distribution
 
 | Character | Focus Act | Central Conflict |
-|-----------|-----------|-----------------|
+|-----------|-----------|------------------|
 | Miriam | III, V | Confronting legacy |
 | Yusuf | II, IV | Justice and witness |
 | Zara | II, III | Identity and belonging |
 | Henrik | III, IV | Recognition and choice |
 | Amara | I, V | Truth and responsibility |
+| Teiti | I, IV, V | Memory and witnessing |
 
 ---
 
