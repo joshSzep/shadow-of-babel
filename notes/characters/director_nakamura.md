@@ -1,4 +1,4 @@
-# Director Kenji Nakamura
+# Director Hiro Nakamura
 
 ## The Overseer
 
@@ -11,7 +11,7 @@
 
 ## Physical Presence
 
-Kenji is meticulously assembled. Tailored suits in dark blues and grays, never black—"Black is for funerals and men who want to seem more important than they are." Silver hair swept back, every strand deliberate. A face that has learned to reveal nothing except what's strategically useful: the practiced smile, the concerned furrow, the thoughtful nod.
+Hiro is meticulously assembled. Tailored suits in dark blues and grays, never black—"Black is for funerals and men who want to seem more important than they are." Silver hair swept back, every strand deliberate. A face that has learned to reveal nothing except what's strategically useful: the practiced smile, the concerned furrow, the thoughtful nod.
 
 He's shorter than his presence suggests—five-foot-seven—but carries himself with the expansiveness of someone accustomed to being the most important person in the room. Moves slowly, deliberately, as if time itself accommodates his schedule. His handshake is firm, exactly two seconds, accompanied by direct eye contact that catalogues your usefulness.
 
@@ -41,7 +41,7 @@ He does not think of himself as the architect of inequality. He thinks of himsel
 ## Psychology
 
 ### Core Trait: Pragmatic Ambition
-Kenji believes in outcomes. Idealism without execution is self-indulgence; ethics without power is impotence. He's not cruel—cruelty is inefficient—but he's willing to accept costs that others find unacceptable if the alternative is failure.
+Hiro believes in outcomes. Idealism without execution is self-indulgence; ethics without power is impotence. He's not cruel—cruelty is inefficient—but he's willing to accept costs that others find unacceptable if the alternative is failure.
 
 The elevator exists because people like him made deals that idealists wouldn't make. He's comfortable with this.
 
@@ -51,19 +51,19 @@ Beneath the calculation is something he rarely acknowledges: he wanted the eleva
 Somewhere along the way, he stopped being able to tell whether he serves the vision or uses it.
 
 ### Managing the Narrative
-Kenji understands that the maiden voyage is symbolic as much as operational. The story told about this week will shape public perception for decades. He's orchestrating that story: which passengers get visibility, which moments get broadcast, which narratives get amplified.
+Hiro understands that the maiden voyage is symbolic as much as operational. The story told about this week will shape public perception for decades. He's orchestrating that story: which passengers get visibility, which moments get broadcast, which narratives get amplified.
 
 He sees the lottery winners as props, the scholarship students as proof of access, the dignitaries as stakeholders. He sees the workers-turned-passengers as a managed risk.
 
 ### The Succession Question
-He's fifty-eight. The Consortium's future extends beyond his career. He's thinking about legacy: what comes next, who carries it forward, whether the thing he built will survive him. Chairman Murakami is aging; the next generation of leadership is unclear. Kenji is auditioning candidates without telling them they're being evaluated.
+He's fifty-eight. The Consortium's future extends beyond his career. He's thinking about legacy: what comes next, who carries it forward, whether the thing he built will survive him. Chairman Murakami is aging; the next generation of leadership is unclear. Hiro is auditioning candidates without telling them they're being evaluated.
 
 ---
 
 ## Key Relationships
 
 ### With Chairman Murakami
-Kenji was Murakami's choice for operations director—a protégé of sorts, though their relationship is more transactional than paternal. Murakami is the visionary; Kenji is the executor. They respect each other, but Kenji has watched Murakami compromise the founder's ideals and knows the Chairman would sacrifice him if necessary.
+Hiro was Murakami's choice for operations director—a protégé of sorts, though their relationship is more transactional than paternal. Murakami is the visionary; Hiro is the executor. They respect each other, but Hiro has watched Murakami compromise the founder's ideals and knows the Chairman would sacrifice him if necessary.
 
 ### With Captain Osei
 Mutual tolerance. He needs her competence; she resists his management. He's learned not to push too hard—she'll do her job, and the voyage will succeed. But he's noted her resistance to PR opportunities in her file.
@@ -72,13 +72,13 @@ Mutual tolerance. He needs her competence; she resists his management. He's lear
 His ally on the command team. She understands narrative; he understands power. Together they craft the version of events that serves the Consortium. He trusts her competence but not her loyalty—she's useful until she isn't.
 
 ### With President Teannaki
-A complicated relationship spanning decades. The President's presence on the maiden voyage is a political coup Kenji engineered—proof that the host nation supports the project. But Teannaki is not a prop; she has her own agenda, her own grievances, her own power. Kenji respects her and is slightly afraid of her.
+A complicated relationship spanning decades. The President's presence on the maiden voyage is a political coup Hiro engineered—proof that the host nation supports the project. But Teannaki is not a prop; she has her own agenda, her own grievances, her own power. Hiro respects her and is slightly afraid of her.
 
 ### With Henrik Lindqvist (POV Character)
-Kenji sees Henrik as the next generation of orbital capital—important to cultivate, useful for legitimacy, potentially a successor to Consortium leadership. He's charming to Henrik, mentoring without condescending. What he's really doing is assessing whether Henrik has the steel for real power.
+Hiro sees Henrik as the next generation of orbital capital—important to cultivate, useful for legitimacy, potentially a successor to Consortium leadership. He's charming to Henrik, mentoring without condescending. What he's really doing is assessing whether Henrik has the steel for real power.
 
 ### With Amara Diallo (POV Character)
-A calculated relationship. Amara has a platform and a reputation for difficult questions. Kenji has given her access precisely because denying it would be worse. He feeds her stories that serve his narrative and deflects from stories that don't. He underestimates how much she sees.
+A calculated relationship. Amara has a platform and a reputation for difficult questions. Hiro has given her access precisely because denying it would be worse. He feeds her stories that serve his narrative and deflects from stories that don't. He underestimates how much she sees.
 
 ---
 
@@ -113,7 +113,7 @@ A calculated relationship. Amara has a platform and a reputation for difficult q
 
 ## Voice and Manner
 
-Kenji speaks in strategic ambiguity. He answers questions without providing information. He commits to nothing while seeming to promise everything. His language is corporate fluent: "stakeholders," "deliverables," "sustainable value creation." He deploys warmth tactically—a first name, a personal anecdote, a moment of apparent vulnerability—always calculated.
+Hiro speaks in strategic ambiguity. He answers questions without providing information. He commits to nothing while seeming to promise everything. His language is corporate fluent: "stakeholders," "deliverables," "sustainable value creation." He deploys warmth tactically—a first name, a personal anecdote, a moment of apparent vulnerability—always calculated.
 
 In private, with genuine confidants (and he has few), he's more direct. The polish drops; the cold clarity emerges. He speaks in assessments: who's useful, who's dangerous, who's irrelevant.
 
@@ -143,7 +143,7 @@ Kenji's journey might be:
 
 ## Thematic Function
 
-Kenji represents **institutional power**—the systems that make miracles possible and corrupt them simultaneously. Through him, the novel can explore:
+Hiro represents **institutional power**—the systems that make miracles possible and corrupt them simultaneously. Through him, the novel can explore:
 
 - Who controls the narrative of progress?
 - Can you serve a vision by compromising it?
@@ -157,7 +157,7 @@ He's not a villain. He's a man who made choices, accumulated power, and now live
 
 ## Notes for Writers
 
-- Kenji appears in Premium Deck scenes and political gatherings
+- Hiro appears in Premium Deck scenes and political gatherings
 - He's a natural foil for both Henrik (who might become him) and Amara (who's trying to expose what he hides)
 - His relationship with President Teannaki creates political tension
 - He knows more than most characters about the Consortium's history and decisions

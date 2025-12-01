@@ -55,11 +55,14 @@
 - Became an advocate for worker conditions; clashed with management repeatedly
 - She was the one who organized the first unauthorized memorial after Black Week
 
-**March 2068: The Climber 17 Incident**
-- Teriki was one of the Twelve—the workers killed when Climber 17 fell
+**November 2066: Teriki's Death**
+- Teriki was killed during a routine tether reinforcement operation at 15,000 km altitude
+- A cable tension failure—the kind of accident that happened too often, was never fully investigated
+- One of dozens of "isolated incidents" that never made the official death toll
 - Teiti received the news in the dispatch office; finished her shift before she wept
 - His body was never recovered; the Pacific took him
 - She wore black for a year; then she wore fury
+- Two years later, the Climber 17 disaster killed twelve more—she organized their memorial too
 
 **The 2071 Crisis**
 - Founding leader of the Builders' Union coalition that threatened to halt maintenance

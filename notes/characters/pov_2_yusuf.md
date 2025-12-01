@@ -50,7 +50,7 @@
 - Felt pride despite everything—he built this
 
 ### The Betrayal
-- Construction completed when Yusuf was 33
+- Yusuf's contract ended when he was 33—construction continued for five more years without him
 - Promised passage was "deferred" indefinitely
 - Contractors declared bankruptcy; obligations dissolved
 - Workers left in the anchor city with nothing

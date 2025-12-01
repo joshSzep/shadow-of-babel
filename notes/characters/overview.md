@@ -78,7 +78,7 @@ These appear across multiple POV sections but don't have their own chapters:
 
 ### Political Figures
 - **President Teannaki Kamoriki**: President of Kiribati, host nation leader, ascending for the first time after refusing for decades (see `president_teannaki.md`)
-- **Director Kenji Nakamura**: Consortium executive overseeing the voyage, pragmatic power broker (see `director_nakamura.md`)
+- **Director Hiro Nakamura**: Consortium executive overseeing the voyage, pragmatic power broker (see `director_nakamura.md`)
 - **Ambassador Priya Sharma**: Indian diplomat advocating for access reform, principled reformer (see `ambassador_sharma.md`)
 - **Senator Maria Gutierrez**: American politician with orbital industry ties, compromised idealist (see `senator_gutierrez.md`)
 

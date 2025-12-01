@@ -273,11 +273,12 @@ Review the manifest for balance, diversity, and thematic coverage. Ensure connec
 3. Zara Chen-Okafor — The Scholarship Student
 4. Henrik Lindqvist — The Industrialist
 5. Amara Diallo — The Journalist
+6. Teiti Nakibae — The Elder
 
 ### Richly Developed (Supporting)
 6. President Teannaki Kamoriki — Kiribati head of state
 7. Captain Elara Osei — Climber commander
-8. Director Kenji Nakamura — Consortium executive (voyage overseer)
+8. Director Hiro Nakamura — Consortium executive (voyage overseer)
 9. Chairman Kenji Murakami — Consortium leader (may not be aboard)
 10. *[To be developed]*
 
