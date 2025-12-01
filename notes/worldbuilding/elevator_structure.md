@@ -290,17 +290,20 @@ As the ribbon grew stronger, permanent structures could be attached.
 4. Lower Atmosphere Station (2081)
 5. The Orbital Hub at GEO (2082)—the crown of the structure
 
-### Phase 5: Full Operations (2083–Present)
+### Phase 5: Full Operations (2073–Present)
 
-**Unmanned Testing (2083)**
-- First full-capacity cargo climber ascent
+**Cargo Operations (2073–2082)**
+- First cargo climber ascent, 2073
 - Journey time: 8 days at average 200 km/hour
-- Carried construction materials for Hub completion
+- Carried construction materials for Hub completion and station supplies
+- Cargo operations expanded as ribbon thickening allowed heavier loads
 
-**Crewed Testing (2084)**
-- Consortium crews first—engineers, scientists, executives
-- Six successful crewed ascents before public opening
-- Issues identified: radiation shielding inadequate at certain altitudes, vibration dampening needed improvement, psychological support underestimated
+**Crewed Operations (2074–Present)**
+- First human ascent (private, Consortium personnel), 2074
+- Founder Takeshi Yamazaki rode the elevator twice before his death in 2079
+- Consortium crews—engineers, scientists, executives—made regular ascents
+- Medical, engineering, and command crews accumulated experience over a decade
+- Issues identified and resolved: radiation shielding, vibration dampening, psychological support
 
 **The Maiden Public Voyage: August 4, 2085**
 - 500 passengers: dignitaries, lottery winners, workers, press
@@ -340,9 +343,9 @@ While attention focused on the ribbon, the counterweight received less scrutiny�
 | 2055–2061 | Deployment | Initial ribbon deployed to Earth |
 | 2061 | Capture | Ribbon anchored at Te Rarawa |
 | 2061–2080 | Thickening | Ribbon strengthened via bootstrap climbers |
-| 2070–2083 | Stations | Way stations attached |
-| 2083 | Testing | First cargo climbers |
-| 2084 | Testing | First crewed climbers |
+| 2070–2082 | Stations | Way stations attached |
+| 2073 | Operations | First cargo climbers |
+| 2074 | Operations | First crewed climbers (private) |
 | 2085 | Operations | First public passenger voyage |
 
 ### The Cost

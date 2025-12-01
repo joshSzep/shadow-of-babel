@@ -252,8 +252,8 @@ The elevator has become a religious and philosophical symbol:
 **2047**: Phoenix Compact signed; PIPA dissolved; construction begins
 **2055**: Platform foundation complete; first workers arrive
 **2062**: Primary construction accident kills 847; the "Black Day"
-**2075**: Tether operational; first cargo climbers
-**2083**: First crewed test ascents
+**2073**: First cargo climbers begin regular operations
+**2074**: First crewed ascents (private, Consortium personnel)
 **2085**: Maiden public voyage (the novel's present)
 
 ### The Construction Years
