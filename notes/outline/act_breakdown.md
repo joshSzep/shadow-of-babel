@@ -717,7 +717,7 @@ Henrik back in his element: meetings, negotiations, the orbital economy. Everyth
 **POV:** Amara
 **Location:** Hub communications center, video call
 
-Amara files more coverage—the arrival, the spectacle, the achievement. She files Teiti's speech in full, unedited—let the network decide what to cut. And then, encrypted, secured, she transmits the other files: Yusuf's interview, the worker testimony, everything. To her editor, with a plan. Not for immediate release—for when the moment is right. The story will be told. She calls Aïssatou: "I'm coming home." Her mother's face appears—still alive, still waiting. The work continues.
+Amara files more coverage—the arrival, the spectacle, the achievement. She files Teiti's speech in full, unedited—let the network decide what to cut. And then, encrypted, secured, she transmits the other files: Yusuf's interview, the worker testimony, everything. To her editor, with a plan. Not for immediate release—for when the moment is right. The story will be told. She calls Aïssatou: "I'm coming home." Her daughter's face appears—bright against the backdrop of Paris. The work continues.
 
 **Key beats:**
 - Amara's delayed truth

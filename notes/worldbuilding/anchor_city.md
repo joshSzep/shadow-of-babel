@@ -40,7 +40,7 @@ The deal was controversial from the start. President Tebwaa Kairaoi, who signed 
 
 ### What Was Destroyed
 
-The Phoenix Islands Protected Area (PIPA), established in 2008, was once the largest marine protected area in the Pacific—408,250 km² of pristine ocean. It was home to:
+The Phoenix Islands Protected Area (PIPA), established in 2008, was once the world's largest marine reserve—408,250 km² of pristine ocean. It was home to:
 
 - Over 500 species of reef fish
 - 120 species of coral, many found nowhere else

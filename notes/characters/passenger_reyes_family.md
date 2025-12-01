@@ -151,7 +151,7 @@ Yusuf might be angry at them—not personally, but at what they represent: the l
 ### With Henrik (POV Character)
 Henrik might encounter Sofia during an observation deck moment—a child's wonder next to an industrialist's calculation. Sofia doesn't know who he is; she just wants to know if he's seen the moon up close. 
 
-The encounter could crack something in Henrik—not just Sofia's innocence, but the realization of what her family went through to be here. Months of applications, evaluations, proving their worth. Henrik bought his ticket. His father's company funded the scholarships that justify the system. The gap between them is not just economic; it's ontological. She had to *become worthy*. He simply *was*.
+The encounter could crack something in Henrik—not just Sofia's innocence, but the realization of what her family went through to be here. Months of applications, evaluations, proving their worth. Henrik bought his ticket. His family's investments helped build the very system that requires this proving. The gap between them is not just economic; it's ontological. She had to *become worthy*. He simply *was*.
 
 ### With Zara (POV Character)
 Zara might see herself in the Reyes family—working-class people given access, used as proof the system works. The scholarship process she went through echoes Elena's lottery journey: applications, evaluations, proving merit by external standards. 

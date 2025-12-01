@@ -141,7 +141,7 @@ These appear across multiple POV sections but don't have their own chapters:
 - Miriam and Yusuf share history: she designed what he built
 - Miriam and Teiti share culpability: the architect and the displaced
 - Teiti and Yusuf share solidarity: both builders, both betrayed, different losses
-- Zara is traveling on a scholarship funded by Henrik's company
+- Zara is traveling on a Stellar Foundation scholarship
 - Teiti sees in Zara a young person being used—potential mentorship
 - Amara has interviewed Miriam before; has files on Henrik
 - Amara sees in Teiti the story that matters—if she can tell it honestly
