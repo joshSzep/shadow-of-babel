@@ -60,7 +60,7 @@ Each character represents a different relationship to the elevator and its meani
 
 | Character | Role | Age | Nationality | Core Question |
 |-----------|------|-----|-------------|---------------|
-| **Miriam Okonkwo** | The Architect | 62 | Nigerian-British | What do creators owe those harmed by their work? |
+| **Miriam Okonkwo** | The Architect | 65 | Nigerian-British | What do creators owe those harmed by their work? |
 | **Yusuf Haddad** | The Builder | 48 | Jordanian | What is owed to those who built but cannot inhabit? |
 | **Zara Chen-Okafor** | The Student | 22 | British (mixed heritage) | Can you change a system from inside it? |
 | **Henrik Lindqvist** | The Industrialist | 44 | Swedish | Can privilege be wielded for change? |

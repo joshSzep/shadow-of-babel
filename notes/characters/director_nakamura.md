@@ -72,7 +72,7 @@ Mutual tolerance. He needs her competence; she resists his management. He's lear
 His ally on the command team. She understands narrative; he understands power. Together they craft the version of events that serves the Consortium. He trusts her competence but not her loyalty—she's useful until she isn't.
 
 ### With President Teannaki
-A complicated relationship spanning decades. The President's presence on the maiden voyage is a political coup Hiro engineered—proof that the host nation supports the project. But Teannaki is not a prop; she has her own agenda, her own grievances, her own power. Hiro respects her and is slightly afraid of her.
+A complicated relationship spanning decades. The President's presence on the maiden voyage is a political coup Hiro engineered—proof that the host nation supports the project. But Teannaki is not a prop; he has his own agenda, his own grievances, his own power. Hiro respects him and is slightly afraid of him.
 
 ### With Henrik Lindqvist (POV Character)
 Hiro sees Henrik as the next generation of orbital capital—important to cultivate, useful for legitimacy, potentially a successor to Consortium leadership. He's charming to Henrik, mentoring without condescending. What he's really doing is assessing whether Henrik has the steel for real power.

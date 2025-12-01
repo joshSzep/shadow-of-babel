@@ -381,7 +381,7 @@ In the months before departure, **The Queue**—a decentralized direct action ne
 
 ### Mama Teiti Nakibae
 **Role:** Founding leader of the Builders' Union, now elder statesperson
-**Background:** I-Kiribati woman who worked construction from 2047–2068; lost her husband Teriki in the Climber 17 incident (one of the Twelve)
+**Background:** I-Kiribati woman who worked construction from 2047–2068; lost her husband Teriki in the Climber 17 disaster (one of the Twelve)
 **Current status:** Officially retired; still consulted on major decisions; one of the 150 workers on the maiden voyage
 **Significance:** Represents the intersection of labor exploitation and indigenous displacement; a moral authority within the movement
 **Note:** Teiti is a **POV character**—see `notes/characters/pov_6_teiti.md` for full profile

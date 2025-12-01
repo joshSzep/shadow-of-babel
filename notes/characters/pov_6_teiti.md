@@ -2,7 +2,7 @@
 
 ## Basic Information
 
-**Full Name:** Teiti Bwebwenikai Nakibae (née Teannaki)
+**Full Name:** Teiti Bwebwenikai Nakibae (née Kamoriki)
 **Age:** 71
 **Nationality:** I-Kiribati (Republic of Kiribati)
 **Former Profession:** Elevator Construction Worker (Platform Assembly, Later Safety Coordinator)
@@ -55,14 +55,14 @@
 - Became an advocate for worker conditions; clashed with management repeatedly
 - She was the one who organized the first unauthorized memorial after Black Week
 
-**November 2066: Teriki's Death**
-- Teriki was killed during a routine tether reinforcement operation at 15,000 km altitude
-- A cable tension failure—the kind of accident that happened too often, was never fully investigated
-- One of dozens of "isolated incidents" that never made the official death toll
+**March 2068: Teriki's Death (The Climber 17 Disaster)**
+- Teriki was one of the Twelve—killed when Climber 17 suffered a drive failure at 12,000 km altitude
+- The bootstrap climber carrying repair materials fell for 47 minutes before recovery systems engaged
+- All 12 crew members died—workers from the Philippines, Indonesia, and Kiribati
 - Teiti received the news in the dispatch office; finished her shift before she wept
-- His body was never recovered; the Pacific took him
+- His body was never recovered; the void took him
 - She wore black for a year; then she wore fury
-- Two years later, the Climber 17 disaster killed twelve more—she organized their memorial too
+- She organized the memorial that made "Remember the Twelve" a rallying cry
 
 **The 2071 Crisis**
 - Founding leader of the Builders' Union coalition that threatened to halt maintenance
@@ -115,7 +115,7 @@
 ## Relationships
 
 ### Personal
-- **Teriki Nakibae** (husband, deceased 2068): The love of her life; his death made her who she is
+- **Teriki Nakibae** (husband, deceased March 2068): The love of her life; one of the Twelve killed in the Climber 17 disaster; his death made her who she is
 - **Banuera Nakibae** (son, deceased 2078): Lived long enough to see his father's killers flourish
 - **Tokanang Nakibae** (grandson, 22): Her reason to continue; brilliant, angry, torn between worlds
 - **Her community**: The I-Kiribati of Te Rarawa; perhaps 270,000 people who remember where they came from
@@ -146,7 +146,7 @@
 
 ### Act II: Early Ascent
 - The view of Earth takes her breath: she sees the atolls of her childhood
-- Gathers with other I-Kiribati workers (there are eleven aboard); they hold a quiet ceremony
+- Gathers with the eleven other I-Kiribati aboard (twelve total, including her); they hold a quiet ceremony
 - Workers from other nations seek her blessing; she gives it, feeling the weight
 - First encounter with the VIP deck: a corporate reception she attends to observe
 - Watches Zara being displayed like a trophy; recognizes exploitation wearing scholarship's face

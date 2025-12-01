@@ -3,7 +3,7 @@
 ## Basic Information
 
 **Full Name:** Miriam Adaeze Okonkwo
-**Age:** 62
+**Age:** 65
 **Nationality:** Nigerian-British
 **Profession:** Structural Engineer, Consortium Fellow (Emerita)
 **Role on Maiden Voyage:** Distinguished Guest, Former Chief Structural Engineer
@@ -175,7 +175,7 @@
 
 ### Sample Internal Passage
 
-*The tether rises from the terminal like she drew it forty years ago on a napkin in a Lagos hotel bar. Same curve, same impossible grace. But the napkin didn't include the security checkpoints, the class-segregated boarding, the faces of the workers who built it watching from behind barriers. She put the mathematics on paper. Someone else decided what the mathematics would mean.*
+*The tether rises from the terminal like she drew it thirty years ago on a napkin in a Lagos hotel bar. Same curve, same impossible grace. But the napkin didn't include the security checkpoints, the class-segregated boarding, the faces of the workers who built it watching from behind barriers. She put the mathematics on paper. Someone else decided what the mathematics would mean.*
 
 ---
 
