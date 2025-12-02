@@ -49,13 +49,24 @@ shadow-of-babel/
 │   │   ├── pov_5_amara.md        # Amara Diallo — The Journalist
 │   │   ├── pov_6_teiti.md        # Teiti Nakibae — The Elder
 │   │   ├── pov_7_kenji.md        # Kenji Murakami — The Steward
-│   │   └── manifest/             # Complete 575-person manifest
-│   │       ├── index.md              # Master manifest overview
-│   │       ├── tier_1_premium.md     # 80 Premium Deck passengers
-│   │       ├── tier_2_business.md    # 120 Business Deck passengers
-│   │       ├── tier_3_standard.md    # 200 Standard Deck passengers
-│   │       ├── tier_4_economy.md     # 100 Economy Deck passengers
-│   │       └── crew_manifest.md      # 75 crew members
+│   │   ├── manifest/             # Complete 575-person manifest
+│   │   │   ├── index.md              # Master manifest overview
+│   │   │   ├── tier_1_premium.md     # 80 Premium Deck passengers
+│   │   │   ├── tier_2_business.md    # 120 Business Deck passengers
+│   │   │   ├── tier_3_standard.md    # 200 Standard Deck passengers
+│   │   │   ├── tier_4_economy.md     # 100 Economy Deck passengers
+│   │   │   └── crew_manifest.md      # 75 crew members
+│   │   └── memorial/             # The 1,247 dead of Babel's construction
+│   │       ├── index.md              # Memorial overview
+│   │       ├── anchor_collapse.md    # 23 dead (October 17, 2065)
+│   │       ├── the_twelve.md         # 12 dead (March 15, 2068)
+│   │       ├── black_day_1.md        # Black Day dead (847 total, part 1)
+│   │       ├── black_day_2.md        # Black Day dead (part 2)
+│   │       ├── black_day_3.md        # Black Day dead (part 3)
+│   │       ├── black_day_4.md        # Black Day dead (part 4)
+│   │       ├── construction_dead.md  # 156 other construction deaths
+│   │       ├── radiation_dead.md     # 187 radiation-linked deaths
+│   │       └── the_disappeared.md    # 22 workers who vanished
 │   └── outline/              # Story structure and planning
 │       ├── structure.md          # Narrative framework, POV rotation, pacing
 │       └── act_breakdown.md      # Detailed 5-act chapter-by-chapter breakdown
