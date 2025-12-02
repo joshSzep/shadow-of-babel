@@ -37,16 +37,25 @@ shadow-of-babel/
 │   │   ├── climber_design.md     # The passenger vessel's interior and systems
 │   │   ├── global_economics.md   # Economic transformation and inequality
 │   │   ├── political_landscape.md# Governance, power, and jurisdiction
+│   │   ├── labor_history.md      # Construction workforce and broken promises
 │   │   └── social_movements.md   # Protests, factions, religious responses
 │   ├── characters/           # POV characters and supporting cast
 │   │   ├── overview.md           # Character summaries and ensemble dynamics
+│   │   ├── passenger_manifest.md # Master manifest framework
 │   │   ├── pov_1_miriam.md       # Miriam Okonkwo — The Architect
 │   │   ├── pov_2_yusuf.md        # Yusuf Haddad — The Builder
 │   │   ├── pov_3_zara.md         # Zara Chen-Okafor — The Scholarship Student
 │   │   ├── pov_4_henrik.md       # Henrik Lindqvist — The Industrialist
 │   │   ├── pov_5_amara.md        # Amara Diallo — The Journalist
 │   │   ├── pov_6_teiti.md        # Teiti Nakibae — The Elder
-│   │   └── pov_7_kenji.md        # Kenji Murakami — The Steward
+│   │   ├── pov_7_kenji.md        # Kenji Murakami — The Steward
+│   │   └── manifest/             # Complete 575-person manifest
+│   │       ├── index.md              # Master manifest overview
+│   │       ├── tier_1_premium.md     # 80 Premium Deck passengers
+│   │       ├── tier_2_business.md    # 120 Business Deck passengers
+│   │       ├── tier_3_standard.md    # 200 Standard Deck passengers
+│   │       ├── tier_4_economy.md     # 100 Economy Deck passengers
+│   │       └── crew_manifest.md      # 75 crew members
 │   └── outline/              # Story structure and planning
 │       ├── structure.md          # Narrative framework, POV rotation, pacing
 │       └── act_breakdown.md      # Detailed 5-act chapter-by-chapter breakdown
@@ -260,12 +269,15 @@ The novel does not provide neat answers:
 |------|-----------------|
 | `notes/characters/overview.md` | Understanding ensemble dynamics, adding characters |
 | `notes/characters/pov_*.md` | Writing any scene from that character's POV |
+| `notes/characters/manifest/` | Finding any named passenger or crew member |
+| `notes/characters/passenger_manifest.md` | Master manifest framework and references |
 | `notes/worldbuilding/anchor_city.md` | Act I scenes, ground-level sequences |
 | `notes/worldbuilding/orbital_hub.md` | Act V scenes, arrival sequences |
 | `notes/worldbuilding/climber_design.md` | Any scene aboard the vessel |
 | `notes/worldbuilding/elevator_structure.md` | Technical details, the tether itself |
 | `notes/worldbuilding/global_economics.md` | Class dynamics, access questions |
 | `notes/worldbuilding/political_landscape.md` | Consortium, governance, jurisdiction |
+| `notes/worldbuilding/labor_history.md` | Worker treatment, broken promises |
 | `notes/worldbuilding/social_movements.md` | Protests, activism, religious elements |
 | `notes/outline/structure.md` | Overall narrative framework |
 | `notes/outline/act_breakdown.md` | Specific chapter planning |

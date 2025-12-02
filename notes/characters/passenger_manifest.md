@@ -2,13 +2,42 @@
 
 ## Overview
 
-The maiden voyage carries **500 passengers** aboard the climber. This document provides a framework for developing a rich, diverse cast that makes the ascent feel populated with real people—each with their own relationship to the elevator and what it represents.
-
-The goal is not to detail all 500, but to create enough texture that any scene can draw on named characters with histories, and that the social stratification of the climber feels lived-in.
+The maiden voyage carries **500 passengers** and **75 crew** aboard the climber. This document provides the master framework for the complete manifest. Every soul aboard is named.
 
 ---
 
-## Passenger Categories
+## Complete Manifest Files
+
+The comprehensive passenger and crew manifest is maintained in the `manifest/` subdirectory:
+
+| File | Contents | Count |
+|------|----------|-------|
+| `manifest/index.md` | Master overview, tier breakdown, thematic functions | — |
+| `manifest/tier_1_premium.md` | Premium Deck passengers (diplomats, executives, celebrities) | 80 |
+| `manifest/tier_2_business.md` | Business Deck passengers (professionals, media, researchers) | 120 |
+| `manifest/tier_3_standard.md` | Standard Deck passengers (lottery winners from 40+ nations) | 200 |
+| `manifest/tier_4_economy.md` | Economy Deck passengers (workers, I-Kiribati delegation) | 100 |
+| `manifest/crew_manifest.md` | All crew members by department | 75 |
+
+**Total named individuals:** 575
+
+---
+
+## Quick Reference: POV Characters
+
+| # | Character | Role | Tier | Manifest ID |
+|---|-----------|------|------|-------------|
+| 1 | Miriam Okonkwo | The Architect | Premium | P-023 |
+| 2 | Yusuf Haddad | The Builder | Economy | E-001 |
+| 3 | Zara Chen-Okafor | The Scholarship Student | Business | B-025 |
+| 4 | Henrik Lindqvist | The Industrialist | Premium | P-009 |
+| 5 | Amara Diallo | The Journalist | Business | B-058 |
+| 6 | Teiti Nakibae | The Elder | Economy | E-081 |
+| 7 | Kenji Murakami | The Steward | Premium | P-001 |
+
+---
+
+## Passenger Categories Summary
 
 ### Tier 1: Premium Deck (~80 passengers)
 **Location:** Upper decks with private suites, direct observation access
@@ -267,42 +296,55 @@ Review the manifest for balance, diversity, and thematic coverage. Ensure connec
 
 ## Quick Reference: Named Characters by Status
 
-### Fully Developed (POV)
-1. Miriam Okonkwo — The Architect
-2. Yusuf Haddad — The Builder
-3. Zara Chen-Okafor — The Scholarship Student
-4. Henrik Lindqvist — The Industrialist
-5. Amara Diallo — The Journalist
-6. Teiti Nakibae — The Elder
-7. Kenji Murakami — The Steward (Consortium Chairman)
+### Fully Developed (POV) — 7 characters
+1. Miriam Okonkwo — The Architect (Premium P-023)
+2. Yusuf Haddad — The Builder (Economy E-001)
+3. Zara Chen-Okafor — The Scholarship Student (Business B-025)
+4. Henrik Lindqvist — The Industrialist (Premium P-009)
+5. Amara Diallo — The Journalist (Business B-058)
+6. Teiti Nakibae — The Elder (Economy E-081)
+7. Kenji Murakami — The Steward (Premium P-001)
 
-### Richly Developed (Supporting)
-1. President Teannaki Kamoriki — Kiribati head of state
-2. Captain Elara Osei — Climber commander
-3. Director Hiro Nakamura — Consortium executive (voyage overseer)
-4. *[To be developed]*
+### Richly Developed (Supporting with dedicated files)
+See individual character files for full profiles:
+- President Teannaki Kamoriki — Kiribati head of state (`president_teannaki.md`, P-016)
+- Captain Elara Osei — Climber commander (`crew_captain_osei.md`, C-001)
+- Director Hiro Nakamura — Consortium executive (`director_nakamura.md`, P-003)
+- Ambassador Lakshmi Sharma — Indian diplomat (`ambassador_sharma.md`, P-017)
+- Senator Maria Gutierrez — US lawmaker (`senator_gutierrez.md`, P-027)
+- Reverend Thomas Whitmore — Babel Church pastor (`passenger_whitmore.md`, P-066)
+- Lin Xiaoming — Tech billionaire (`passenger_lin.md`, P-035)
+- The Reyes Family — Mexican lottery winners (`passenger_reyes_family.md`, S-001 to S-004)
+- Kwame Asante — Grounded activist (`passenger_asante.md`, B-081)
+- Founder Takeshi Yamazaki — Referenced, deceased (`founder_takeshi.md`)
 
-### Sketched (Recurring)
-- Chief Steward Dmitri Volkov
-- Dr. Aisha Rahman (Chief Medical Officer)
-- Ambassador Priya Sharma
-- Senator Maria Gutierrez
-- Reverend Thomas Whitmore
-- Lin Xiaoming (tech billionaire)
-- The Reyes Family
-- Kwame Asante (Grounded activist)
-- *[Expand as needed]*
-
-### Named Background
-*[To be populated as chapters develop]*
+### All Other Named Passengers and Crew
+See `manifest/` directory for complete listings:
+- **Premium (80):** `manifest/tier_1_premium.md`
+- **Business (120):** `manifest/tier_2_business.md`
+- **Standard (200):** `manifest/tier_3_standard.md`
+- **Economy (100):** `manifest/tier_4_economy.md`
+- **Crew (75):** `manifest/crew_manifest.md`
 
 ---
 
 ## Notes for Writers
 
-- When introducing a new character, check this manifest first
-- Add new characters to the manifest as they're created
-- Note which tier and category they belong to
-- Track connections to existing characters
+- When introducing a new character, check the manifest files first
+- Each passenger has a unique ID (P-xxx, B-xxx, S-xxx, E-xxx, C-xxx)
+- The manifest includes nationality, age, background, and connections
+- Characters marked with ★ have dedicated character files
 - Maintain diversity across the ensemble
 - Remember: everyone has a reason to be on this voyage
+
+---
+
+## Cross-References
+
+| Document | Purpose |
+|----------|---------|
+| `overview.md` | POV character summaries and ensemble dynamics |
+| `pov_*.md` | Full POV character profiles |
+| Individual character files | Supporting character details |
+| `manifest/index.md` | Complete passenger manifest navigation |
+
