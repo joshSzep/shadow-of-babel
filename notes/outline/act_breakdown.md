@@ -585,19 +585,72 @@ Amara files her official report: the voyage, the awe, the achievement. Accurate,
 **POV:** Teiti
 **Location:** Observation deck, then chapel/meditation space
 
-The spiritual climax. Teiti has gathered the I-Kiribati workers, but others come too—workers of other nationalities, a few passengers who've heard. In the chapel, in near-weightlessness, she leads a ceremony. She speaks the names of the dead: the 847 on the Memorial Wall, and the others—the ones whose names never made the list. Teriki Nakibae. Tebuke Nakibae. The Twelve. The radiation dead. The drowned. The disappeared.
+The spiritual climax. Teiti has gathered the I-Kiribati workers, but others come too—workers of other nationalities, a few passengers who've heard. In the chapel, in near-weightlessness, she leads a ceremony. She speaks the names of the dead—all 1,247 of them.
 
 She floats in the center of the space, an elder in woven mat, speaking names into the void. Some weep. Some don't know why they came. But they listen. They witness.
 
+**The Ceremony Order** (see `notes/characters/memorial/index.md` for complete documentation):
+
+1. **The Anchor Collapse** (23 names) — October 17, 2065
+   - Teriki Nakibae is first. Her husband. The name that costs her the most.
+   - See: `notes/characters/memorial/anchor_collapse.md`
+
+2. **The Twelve** (12 names) — March 15, 2068
+   - Climber 17. The cascade failure. The names no one was supposed to remember.
+   - See: `notes/characters/memorial/the_twelve.md`
+
+3. **Black Day** (847 names) — September 14, 2072
+   - The longest portion. Teiti's voice grows hoarse. Others begin to help.
+   - Workers from 23 nations. Families that never recovered.
+   - See:
+    - `notes/characters/memorial/black_day_1.md`
+    - `notes/characters/memorial/black_day_2.md`
+    - `notes/characters/memorial/black_day_3.md`
+    - `notes/characters/memorial/black_day_4.md`
+
+4. **The Construction Dead** (156 names) — 2047–2085
+   - The falls, the decompressions, the equipment failures.
+   - The slow accumulation of "acceptable losses."
+   - See: `notes/characters/memorial/construction_dead.md`
+
+5. **The Radiation Dead** (187 names) — Deaths through 2085
+   - The cancers. The "unrelated" illnesses. The denied claims.
+   - Tebuke Nakibae is here. Her son. Entry #46.
+   - See: `notes/characters/memorial/radiation_dead.md`
+
+6. **The Disappeared** (22 names) — Dates unknown
+   - The workers whose records were erased. The inconvenient deaths.
+   - For these, Teiti speaks only: "A worker. Lost. Unnamed by those who killed them."
+   - See: `notes/characters/memorial/the_disappeared.md`
+
 And then she speaks for the reef: the fish, the coral, the ecosystem that died so this tower could rise. She names what cannot be named—the species that have no names because they went extinct before anyone catalogued them. She speaks for the water, the islands, the world that was.
+
+**The Weight of Numbers:**
+- 1,247 dead to build what 575 now ascend
+- Ratio: 2.17 deaths per passenger aboard
+- Time to speak all names at 3 seconds each: 62 minutes
+- Teiti will not rush. She will not abbreviate. She will speak every name.
 
 **Key beats:**
 - The ceremony as spiritual climax
 - Teiti as keeper of memory
 - The dead named aloud in the place they were denied
+- Teriki first, Tebuke among the radiation dead—her personal losses bookending the litany
 - The reef named as victim
 - Witness and witnessing
 - Other characters present, transformed or unchanged
+- The physical toll: an hour of names, Teiti's voice failing, others joining
+
+**Reference files for writing this chapter:**
+- `notes/characters/memorial/index.md` — Master overview and ceremony structure
+- `notes/characters/memorial/anchor_collapse.md` — 23 names including Teriki Nakibae
+- `notes/characters/memorial/the_twelve.md` — 12 names from Climber 17
+- `notes/characters/memorial/black_day_1.md` through `black_day_4.md` — 847 names
+- `notes/characters/memorial/construction_dead.md` — 156 names
+- `notes/characters/memorial/radiation_dead.md` — 187 names including Tebuke Nakibae
+- `notes/characters/memorial/the_disappeared.md` — 22 names
+- `notes/characters/pov_6_teiti.md` — Teiti's voice, motivation, grief
+- `notes/worldbuilding/labor_history.md` — Context for each disaster
 
 ---
 
