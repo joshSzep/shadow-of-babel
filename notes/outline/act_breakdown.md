@@ -3,7 +3,7 @@
 ## Act I: Ground
 
 ### Summary
-The anchor city. The eve and morning of departure. Six perspectives converging on the base of the Babel Elevator. Awe and inequality visible from the first page. Teiti's presence grounds us in what was lost to build this miracle.
+The anchor city. The eve and morning of departure. Seven perspectives converging on the base of the Babel Elevator. Awe and inequality visible from the first page. Teiti's presence grounds us in what was lost to build this miracle. Kenji's presence shows the institutional face of the Consortium.
 
 ### Duration
 - Approximately Day 1 of the voyage
@@ -99,7 +99,22 @@ Amara processes through press channels—different line, same invasive security.
 
 ---
 
-### Chapter 7: The Refusal
+### Chapter 7: The Chairman's Arrival
+**POV:** Kenji
+**Location:** VIP terminal, ceremonial platform
+
+Kenji arrives with full ceremonial weight: the face of the Consortium. Speeches, photographs, handshakes with dignitaries. The performance of triumph. Privately exhausted; this voyage feels like a culmination or a judgment. He scans the manifest mentally—knows Yusuf is somewhere in the queue. The ticket he sent weighs on him. During a photo opportunity, he glimpses the economy boarding lines in the distance and quickly looks away.
+
+**Key beats:**
+- The institutional face of Babel
+- The gap between public performance and private exhaustion
+- Kenji's knowledge that Yusuf is aboard
+- The weight of nineteen years of silence
+- His avoidance of looking at what he's wrought
+
+---
+
+### Chapter 8: The Refusal
 **POV:** Teiti
 **Location:** Terminal, boarding sequence
 
@@ -113,8 +128,8 @@ The Consortium offers Teiti VIP boarding—she is, after all, a "distinguished l
 
 ---
 
-### Chapter 8: Boarding
-**POV:** Rotating fragments (all six)
+### Chapter 9: Boarding
+**POV:** Rotating fragments (all seven)
 
 The boarding sequence from multiple perspectives: short sections, each POV experiencing the same event differently. The terminal's cathedral scale. The lines: VIP smooth, economy slow, workers' channel separate. The climber itself: first sight of the interior. The scale, the beauty, the division.
 
@@ -122,14 +137,14 @@ The boarding sequence from multiple perspectives: short sections, each POV exper
 - The climber as microcosm
 - Class separation made architectural
 - Moments of recognition across lines
-- All six aboard, journey about to begin
+- All seven aboard, journey about to begin
 
 ---
 
-### Chapter 9: Departure
+### Chapter 10: Departure
 **POV:** Miriam (primary), others woven in
 
-The launch sequence. The floor trembles. Through the observation ports: Earth, still close, beginning to recede. Miriam watches the structure she designed begin its work. Yusuf feels the vibrations he knows intimately. Zara does physics calculations in her head. Henrik raises a glass. Amara records. Teiti watches through a small porthole in the workers' section, singing quietly in Gilbertese—a departure song.
+The launch sequence. The floor trembles. Through the observation ports: Earth, still close, beginning to recede. Miriam watches the structure she designed begin its work. Yusuf feels the vibrations he knows intimately. Zara does physics calculations in her head. Henrik raises a glass. Amara records. Kenji gives brief remarks over the intercom—polished, triumphant. Teiti watches through a small porthole in the workers' section, singing quietly in Gilbertese—a departure song.
 
 **Key beats:**
 - The ascent begins—the point of no return
@@ -139,7 +154,7 @@ The launch sequence. The floor trembles. Through the observation ports: Earth, s
 
 ---
 
-### Chapter 10: The Night Launch
+### Chapter 11: The Night Launch
 **POV:** Yusuf
 
 Night falls (or they rise into night). Yusuf at an observation port, alone. The city lights below, shrinking. The stars above, emerging. He touches the wall—he knows what's behind it. A worker approaches; recognition. Shared drink, shared history, different fates. The first day ends.
@@ -154,7 +169,7 @@ Night falls (or they rise into night). Yusuf at an observation port, alone. The 
 
 ### Act I Climax
 
-The climber is fully underway. All six protagonists are aboard, situated, beginning to interact with their environment and each other. Teiti has grounded us in what was lost; the others carry their own burdens. The reader understands the stakes, the world, the journey ahead. Earth is still large in the viewports, but shrinking. The ascent has begun.
+The climber is fully underway. All seven protagonists are aboard, situated, beginning to interact with their environment and each other. Kenji has performed triumph while carrying private exhaustion; Teiti has grounded us in what was lost; the others carry their own burdens. The reader understands the stakes, the world, the journey ahead. Earth is still large in the viewports, but shrinking. The ascent has begun.
 
 ---
 
@@ -172,7 +187,7 @@ The first full days of the journey. Awe at the changing view. Social mixing thro
 
 ---
 
-### Chapter 11: First Light
+### Chapter 12: First Light
 **POV:** Zara
 **Location:** Scholarship quarters, observation deck
 
@@ -186,10 +201,10 @@ Zara wakes in her shared cabin. The view from the porthole: Earth at angle, clou
 
 ---
 
-### Chapter 12: The View Deck
+### Chapter 13: The View Deck
 **POV:** Rotating
 
-The main observation deck, open hours. All classes mixing—one of the few shared spaces. Multiple POV characters present, observing each other. Short sections: Miriam remembering, Yusuf watching, Zara calculating, Henrik glad-handing, Amara noting everything, Teiti standing apart—watching the ocean, trying to see where the reef once was. The view: Earth curved, blue, perfect. A moment of genuine shared awe.
+The main observation deck, open hours. All classes mixing—one of the few shared spaces. Multiple POV characters present, observing each other. Short sections: Miriam remembering, Yusuf watching, Zara calculating, Henrik glad-handing, Amara noting everything, Kenji maintaining the performance of hospitality while scanning for Yusuf, Teiti standing apart—watching the ocean, trying to see where the reef once was. The view: Earth curved, blue, perfect. A moment of genuine shared awe.
 
 **Key beats:**
 - The equalizing power of the view
@@ -200,7 +215,7 @@ The main observation deck, open hours. All classes mixing—one of the few share
 
 ---
 
-### Chapter 13: The Corporate Reception
+### Chapter 14: The Corporate Reception
 **POV:** Henrik
 **Location:** VIP lounge, luxury deck
 
@@ -214,11 +229,11 @@ Henrik hosts a cocktail event. Politicians, investors, executives. Schmoozing an
 
 ---
 
-### Chapter 14: Below Decks
+### Chapter 15: Below Decks
 **POV:** Yusuf
 **Location:** Economy section, workers' mess
 
-Yusuf among the lottery winners and workers. Different atmosphere: more honest, more tense. Stories shared: why they're here, what they hope. A union organizer is aboard; debates about whether the voyage is victory or cooption. Yusuf mostly listens. Someone mentions Miriam—"the architect." Yusuf's reaction. Someone else mentions Mama Teiti—respect in the voice.
+Yusuf among the lottery winners and workers. Different atmosphere: more honest, more tense. Stories shared: why they're here, what they hope. A union organizer is aboard; debates about whether the voyage is victory or cooption. Yusuf mostly listens. Someone mentions Miriam—"the architect." Yusuf's reaction. Someone else mentions Mama Teiti—respect in the voice. And the Chairman: why is he here? Someone saw him at the observation deck, looking for someone.
 
 **Key beats:**
 - The other half of the climber
@@ -226,10 +241,11 @@ Yusuf among the lottery winners and workers. Different atmosphere: more honest, 
 - Stories from the construction years
 - The Miriam question raised
 - Teiti's reputation among workers
+- Rumors about the Chairman's restlessness
 
 ---
 
-### Chapter 15: Te Rii ni Banaba
+### Chapter 16: Te Rii ni Banaba
 **POV:** Teiti
 **Location:** A storage bay converted to meeting space
 
@@ -244,7 +260,7 @@ Teiti gathers the eleven other I-Kiribati aboard. They meet in a storage bay tha
 
 ---
 
-### Chapter 16: The Interview (Zara)
+### Chapter 17: The Interview (Zara)
 **POV:** Amara
 **Location:** Press room
 
@@ -258,7 +274,7 @@ Amara interviews Zara. Official story: scholarship success, hope, future. But so
 
 ---
 
-### Chapter 17: The Edge of Space
+### Chapter 18: The Edge of Space
 **POV:** Miriam
 **Location:** Stratospheric passage
 
@@ -272,22 +288,23 @@ The transition zone. Blue sky fading to black. Stars appearing even during local
 
 ---
 
-### Chapter 18: Day Two
+### Chapter 19: Day Two
 **POV:** Rotating
 
-Life aboard settling into pattern. Meals, observation times, social events. Routine emerging. But tensions too: a minor confrontation in a shared space. A technical hiccup that creates anxiety. News from Earth: protests intensifying. Each POV character processing the first full day. The climber has risen thousands of kilometers. Earth looks different now.
+Life aboard settling into pattern. Meals, observation times, social events. Routine emerging. But tensions too: a minor confrontation in a shared space. A technical hiccup that creates anxiety. News from Earth: protests intensifying. Each POV character processing the first full day. Kenji receives reports, manages small crises, performs calm while feeling the weight. The climber has risen thousands of kilometers. Earth looks different now.
 
 **Key beats:**
 - Routine and rhythm
 - Small conflicts as symptoms
 - Earth shrinking in view
 - Foreshadowing larger conflicts
+- Kenji's maintenance of order
 
 ---
 
 ### Act II Climax
 
-The climber is in space proper. Earth is clearly a globe now, blue and cloud-swirled. The passengers have sorted into their routines and their tensions. Yusuf knows Miriam is aboard. Amara has begun sensing the real story. Zara has doubts about her role. Henrik has been slightly unsettled. Miriam has been recognized, uncomfortably. Teiti has held her ceremony—the I-Kiribati have named their loss. The stage is set for the mid-voyage confrontations.
+The climber is in space proper. Earth is clearly a globe now, blue and cloud-swirled. The passengers have sorted into their routines and their tensions. Yusuf knows Miriam is aboard. Kenji knows Yusuf received the ticket and is watching for a reckoning. Amara has begun sensing the real story. Zara has doubts about her role. Henrik has been slightly unsettled. Miriam has been recognized, uncomfortably. Teiti has held her ceremony—the I-Kiribati have named their loss. The stage is set for the mid-voyage confrontations.
 
 ---
 
@@ -305,7 +322,7 @@ The journey's turning point. Major confrontations between characters. Ideologies
 
 ---
 
-### Chapter 19: Mid-Point
+### Chapter 20: Mid-Point
 **POV:** Establishing (or Zara)
 **Location:** Approaching mid-point station
 
@@ -319,7 +336,7 @@ Day 3 begins. The mid-point station visible ahead. A scheduled stop for some pas
 
 ---
 
-### Chapter 20: The Challenge
+### Chapter 21: The Challenge
 **POV:** Henrik
 **Location:** VIP dining
 
@@ -333,7 +350,7 @@ Henrik at a formal dinner. A fellow passenger—politician, activist, or just so
 
 ---
 
-### Chapter 21: Yusuf's Memory
+### Chapter 22: Yusuf's Memory
 **POV:** Yusuf
 **Location:** Economy quarters, his mind
 
@@ -347,7 +364,7 @@ Yusuf in his cabin, unable to sleep. Flashback: the construction years. A specif
 
 ---
 
-### Chapter 22: The Real Story
+### Chapter 23: The Real Story
 **POV:** Amara
 **Location:** Workers' section
 
@@ -361,7 +378,7 @@ Amara has found her way into workers' spaces. Interviewing crew members, passeng
 
 ---
 
-### Chapter 23: The Scholarship's Price
+### Chapter 24: The Scholarship's Price
 **POV:** Zara
 **Location:** Corporate function, then scholarship meeting
 
@@ -375,8 +392,9 @@ Zara at another corporate event—this time seeing clearly. She's decoration. Af
 
 ---
 
-### Chapter 24: The Meeting
+### Chapter 25: The Meeting
 **POV:** Miriam and Yusuf (alternating sections)
+**Location:** Corridor, observation lounge
 
 The confrontation. Yusuf finds Miriam—or they're brought together by circumstance. The conversation is tense, halting, painful. He says what he's wanted to say for fifteen years. She hears what she's avoided hearing. Neither can give the other what they need. But something happens: recognition. They're both marked by what they built. The conversation ends unresolved but not untransformed.
 
@@ -388,8 +406,9 @@ The confrontation. Yusuf finds Miriam—or they're brought together by circumsta
 
 ---
 
-### Chapter 25: Did You Know?
+### Chapter 26: Did You Know?
 **POV:** Teiti and Miriam (alternating sections)
+**Location:** Quiet observation alcove
 
 The second confrontation. Teiti approaches Miriam—not with Yusuf's rage, but with something harder to deflect: patient questioning. "The Phoenix Islands Protected Area. Did you know what would be destroyed?" Miriam knew. She knew the reef would die, the ecosystem would be erased, an indigenous homeland would become a platform. She chose to build anyway. Teiti doesn't accuse. She excavates. "And now I ascend the tower built on my husband's grave, in waters where my grandfather fished. What do you want me to feel?" Miriam has no answer. Teiti didn't expect one. But acknowledgment—that, perhaps, can exist.
 
@@ -402,7 +421,7 @@ The second confrontation. Teiti approaches Miriam—not with Yusuf's rage, but w
 
 ---
 
-### Chapter 26: Amara Finds the Story
+### Chapter 27: Amara Finds the Story
 **POV:** Amara
 **Location:** Press room, corridor
 
@@ -416,21 +435,48 @@ Amara has witnessed both confrontations—or pieces of them. She understands now
 
 ---
 
-### Chapter 27: Technical Crisis
-**POV:** Miriam (primary)
-**Location:** Engineering section
+### Chapter 28: The Ticket
+**POV:** Kenji and Yusuf (alternating sections)
+**Location:** Service corridor, then Kenji's private quarters
 
-A system anomaly—minor but alarming. Crew scrambles. Someone remembers Miriam's expertise. She's called to consult. In the engineering spaces, surrounded by her designs, she solves the problem. Competence, purpose, the old clarity. But also: this is what she did instead of fighting for the workers. This is what she chose. The crisis passes; her reflection doesn't.
+The third confrontation. Kenji has been watching, waiting, dreading. He finally approaches Yusuf—or Yusuf finds him. The question that has hung for nineteen years: "Why did you send me the ticket?"
+
+Kenji cannot answer simply. The day of the accident unfolds in flashback—Yusuf pulling him from wreckage, carrying him to safety, the promise Kenji made in the medical bay: "I'll fix this. I'll make sure it never happens again."
+
+He failed. The system resisted. He rose within it, became its face. And now he has sent Yusuf a ticket—guilt? Hope? A summons to judgment?
+
+Yusuf listens. He doesn't forgive. But he sees something in Kenji that the public doesn't: the exhaustion, the trapped compromise, the man who wanted to be better and became what the system needed instead.
+
+"I saved your life," Yusuf says. "You owe me nothing for that. But you owe them everything." He means the dead, the broken, the workers who never got tickets.
+
+Kenji has no answer. They part unreconciled.
 
 **Key beats:**
-- Miriam's expertise in action
-- The structure she knows intimately
-- Competence and its moral weight
-- The crisis as catalyst
+- The novel's third moral center
+- Personal debt vs. systemic failure
+- Kenji's private devastation
+- Yusuf's rage transformed into something colder
+- The impossibility of adequate response
+- What is owed when you cannot pay
 
 ---
 
-### Chapter 28: Witnesses
+### Chapter 29: Technical Crisis
+**POV:** Miriam (primary), Kenji (secondary)
+**Location:** Engineering section, command center
+
+A system anomaly—minor but alarming. Crew scrambles. Someone remembers Miriam's expertise. She's called to consult. Kenji arrives in the command center, managing the public response while privately terrified—not of the malfunction, but of what it reveals about his inadequacy. In the engineering spaces, Miriam solves the problem. Competence, purpose, the old clarity. Kenji watches her work and sees what he gave up: expertise for performance, substance for symbol. The crisis passes; their reflections don't.
+
+**Key beats:**
+- Miriam's expertise in action
+- Kenji's management vs. her mastery
+- The structure they know intimately in different ways
+- Competence and its moral weight
+- The crisis as catalyst for both
+
+---
+
+### Chapter 30: Witnesses
 **POV:** Teiti
 **Location:** Workers' section, observation deck
 
@@ -445,14 +491,15 @@ Teiti processes the day's confrontations. She thinks of Yusuf—his rage is righ
 
 ---
 
-### Chapter 29: Day Four Closes
+### Chapter 31: Day Four Closes
 **POV:** Rotating
 
-Evening of Day 4. Multiple characters processing what's happened. Yusuf alone with new feelings. Miriam in her cabin, writing. Zara talking with a fellow student—deciding something. Henrik reviewing communications, distracted. Amara preparing files, weighing choices. Teiti with the I-Kiribati workers, planning. The climber rises through darkness. The hub is visible now: a point of light ahead.
+Evening of Day 4. Multiple characters processing what's happened. Yusuf alone with new feelings. Miriam in her cabin, writing. Zara talking with a fellow student—deciding something. Henrik reviewing communications, distracted. Amara preparing files, weighing choices. Kenji in his quarters, unable to maintain the mask, replaying Yusuf's words. Teiti with the I-Kiribati workers, planning. The climber rises through darkness. The hub is visible now: a point of light ahead.
 
 **Key beats:**
 - Aftermath and processing
 - Characters changed by events
+- Kenji's private devastation
 - The hub appearing
 - The final movement approaching
 
@@ -460,7 +507,7 @@ Evening of Day 4. Multiple characters processing what's happened. Yusuf alone wi
 
 ### Act III Climax
 
-The major confrontations have happened. Miriam has faced both Yusuf and Teiti—different accusations, different wounds, both unhealed. Zara has seen behind the curtain. Henrik has been unsettled. Amara has her story. Teiti has asked her question and received no answer—but she has been heard. The climber is past the midpoint, committed to arrival. The hub glows ahead. The characters enter the final phase carrying whatever they've become.
+The major confrontations have happened. Miriam has faced both Yusuf and Teiti—different accusations, different wounds, both unhealed. Kenji has faced Yusuf and found no answer to the question of what he owes. Three moral centers, three forms of reckoning: labor and promises (Miriam-Yusuf), homeland and sacrifice (Teiti-Miriam), debt and failure (Kenji-Yusuf). Zara has seen behind the curtain. Henrik has been unsettled. Amara has her story. Teiti has asked her question and received no answer—but she has been heard. The climber is past the midpoint, committed to arrival. The hub glows ahead. The characters enter the final phase carrying whatever they've become.
 
 ---
 
@@ -478,7 +525,7 @@ Near-weightlessness. The overview effect at full power. Interior journeys. Chara
 
 ---
 
-### Chapter 30: Weightless
+### Chapter 32: Weightless
 **POV:** Yusuf
 **Location:** Observation deck
 
@@ -492,7 +539,7 @@ Gravity almost gone. Yusuf floats—his damaged knees, his missing fingers, his 
 
 ---
 
-### Chapter 31: Henrik's Overview
+### Chapter 33: Henrik's Overview
 **POV:** Henrik
 **Location:** Private observation suite
 
@@ -506,7 +553,7 @@ Henrik alone with the view. He's scheduled time, as he schedules everything. But
 
 ---
 
-### Chapter 32: Zara Decides
+### Chapter 34: Zara Decides
 **POV:** Zara
 **Location:** Scholarship quarters, conversation with Miriam
 
@@ -520,7 +567,7 @@ Zara seeks out Miriam—the mentorship she actually wants. They talk about engin
 
 ---
 
-### Chapter 33: The Report
+### Chapter 35: The Report
 **POV:** Amara
 **Location:** Press room, video call with daughter
 
@@ -534,7 +581,7 @@ Amara files her official report: the voyage, the awe, the achievement. Accurate,
 
 ---
 
-### Chapter 34: Speaking the Names
+### Chapter 36: Speaking the Names
 **POV:** Teiti
 **Location:** Observation deck, then chapel/meditation space
 
@@ -554,38 +601,72 @@ And then she speaks for the reef: the fish, the coral, the ecosystem that died s
 
 ---
 
-### Chapter 35: The Quiet Hours
+### Chapter 37: The Quiet Hours
 **POV:** Multiple short sections
 **Location:** Throughout the climber
 
-Night—artificial night. Quiet. Scattered characters in scattered spaces. Conversations in corridors. Prayers in the chapel, where Teiti's words still seem to hang. A lottery winner calling home. Two workers playing cards. Henrik staring out a port. Yusuf and Miriam passing in a corridor—a nod, not words. Teiti with the photograph of Teriki, floating beside her. The climber rises through the silence. Everyone alone with what they've learned.
+Night—artificial night. Quiet. Scattered characters in scattered spaces. Conversations in corridors. Prayers in the chapel, where Teiti's words still seem to hang. A lottery winner calling home. Two workers playing cards. Henrik staring out a port. Kenji at the observation deck at 3 AM, unable to sleep, rehearsing speeches he won't give. Yusuf and Miriam passing in a corridor—a nod, not words. Teiti with the photograph of Teriki, floating beside her. The climber rises through the silence. Everyone alone with what they've learned.
 
 **Key beats:**
 - Contemplative atmosphere
 - Small human moments
+- Kenji's insomnia and doubt
 - The community aboard
 - The silence of the void
 - Aftermath of the ceremony
 
 ---
 
-### Chapter 36: The Hub Appears
+### Chapter 38: The Inheritors
+**POV:** Kenji and Miriam (alternating sections)
+**Location:** VIP observation lounge, late night
+
+The quiet conversation that Kenji and Miriam have avoided. They are Takeshi Yamazaki's inheritors—she shaped his vision into reality, he became its institutional face. But she left, and he stayed.
+
+Miriam asks the question: "Why did you stay?"
+
+Kenji: Because leaving felt like abandonment. Because he believed he could change it from within. Because the system offered him power, and he convinced himself power could serve the vision.
+
+"And did it?"
+
+He doesn't know. Every reform he achieved came with a compromise. Every compromise eroded something. He rose to Chairman and discovered the chair had already shaped him.
+
+Miriam: "I left because I couldn't bear what I was becoming."
+
+Kenji: "And I stayed and became it."
+
+They don't resolve who failed more—the one who fled with moral clarity, or the one who remained with compromised hands. Perhaps both failed. Perhaps failure was inevitable.
+
+But here, at altitude, with Earth floating in the dark, they can finally be honest. Fellow inheritors of a vision neither could save.
+
+**Key beats:**
+- The novel's fourth moral center (quieter, reflective)
+- Two kinds of institutional failure
+- Kenji and Miriam as parallel compromises
+- Honesty at altitude
+- No resolution, only recognition
+- The weight of Takeshi's legacy
+
+---
+
+### Chapter 39: The Hub Appears
 **POV:** Rotating
 **Location:** Throughout
 
-Day 6 dawns (artificial dawn). The hub is visible: not a point of light anymore, but a structure. Rings, spokes, the gleam of solar panels. The destination is real. Passengers gather to watch it grow. Announcements about arrival procedures. The sense of ending approaching. Each POV character with final thoughts: What have they become? What do they carry forward?
+Day 6 dawns (artificial dawn). The hub is visible: not a point of light anymore, but a structure. Rings, spokes, the gleam of solar panels. The destination is real. Passengers gather to watch it grow. Announcements about arrival procedures. Kenji prepares his arrival remarks, crossing out lines, uncertain what he wants to say. The sense of ending approaching. Each POV character with final thoughts: What have they become? What do they carry forward?
 
 **Key beats:**
 - The hub as reality
 - Arrival approaching
 - Characters' final interior
+- Kenji preparing his public role
 - The journey's end in sight
 
 ---
 
 ### Act IV Climax
 
-The hub fills the forward ports. Docking procedures begin. The passengers have become who they will be for arrival. Yusuf has his witness. Miriam has her reckoning. Zara has her determination. Henrik has his question. Amara has her story, waiting. Teiti has spoken the names—she has done what she came to do. But she has one more act: to speak at the arrival, not as the Consortium wants, but as she chooses. The climber slows for approach. The journey's end is hours away.
+The hub fills the forward ports. Docking procedures begin. The passengers have become who they will be for arrival. Yusuf has his witness. Miriam has her reckoning. Kenji has confronted his failure and spoken honestly with Miriam—fellow inheritors, finally unburdened. Zara has her determination. Henrik has his question. Amara has her story, waiting. Teiti has spoken the names—she has done what she came to do. But she has one more act: to speak at the arrival, not as the Consortium wants, but as she chooses. Kenji knows this, and he has a choice of his own to make. The climber slows for approach. The journey's end is hours away.
 
 ---
 
@@ -603,7 +684,7 @@ Arrival. Each character reaches their destination—physical and psychological. 
 
 ---
 
-### Chapter 37: Docking
+### Chapter 40: Docking
 **POV:** Miriam
 **Location:** Docking sequence
 
@@ -617,11 +698,11 @@ The climber approaches the hub. Through the ports: the station's vast rotating r
 
 ---
 
-### Chapter 38: First Steps
+### Chapter 41: First Steps
 **POV:** Rotating short sections
 **Location:** Arrival hall
 
-Disembarkation. Each character stepping from the climber into the hub. The strange gravity (rotating, partial). The vast arrival hall. Officials, cameras, managed chaos. Zara with her cohort. Henrik with his retinue. Yusuf alone, looking around. Amara recording. Miriam standing still, taking it in. Teiti in her woven mat, refusing the offered arm—she will walk off this tower on her own feet. The future they've arrived in.
+Disembarkation. Each character stepping from the climber into the hub. The strange gravity (rotating, partial). The vast arrival hall. Officials, cameras, managed chaos. Zara with her cohort. Henrik with his retinue. Yusuf alone, looking around. Amara recording. Miriam standing still, taking it in. Kenji with his handlers, already in motion toward the ceremony platform. Teiti in her woven mat, refusing the offered arm—she will walk off this tower on her own feet. The future they've arrived in.
 
 **Key beats:**
 - Physical arrival
@@ -631,7 +712,7 @@ Disembarkation. Each character stepping from the climber into the hub. The stran
 
 ---
 
-### Chapter 39: The Architect's Legacy
+### Chapter 42: The Architect's Legacy
 **POV:** Miriam
 **Location:** Hub observation deck
 
@@ -645,7 +726,7 @@ Miriam at the hub's main observation deck. Earth below—whole, small, heartbrea
 
 ---
 
-### Chapter 40: The Builder's Witness
+### Chapter 43: The Builder's Witness
 **POV:** Yusuf
 **Location:** Hub commercial district
 
@@ -659,7 +740,7 @@ Yusuf walks through the hub—spaces that exist because of his labor. No one her
 
 ---
 
-### Chapter 41: This Is What Was
+### Chapter 44: This Is What Was
 **POV:** Teiti
 **Location:** Arrival ceremony, main hall
 
@@ -684,7 +765,39 @@ The silence stretches. Some applaud. Some don't know what to do. The Consortium 
 
 ---
 
-### Chapter 42: The Student's Voice
+### Chapter 45: The Chairman's Deviation
+**POV:** Kenji
+**Location:** Arrival ceremony, main hall
+
+After Teiti's speech, before the ceremony can recover its managed trajectory, it is Kenji's turn to speak. He has the prepared remarks. The teleprompter glows with Consortium-approved triumph.
+
+He begins as expected. The achievement. The vision. The future.
+
+And then he deviates.
+
+"We were promised passage," he says, departing from the script. "Not all of us. Some of us. The builders, the workers, those whose labor made this tower possible. We promised them the sky, and then we closed the door."
+
+The handlers freeze. The board members' faces go blank. This wasn't rehearsed.
+
+"This voyage carries 500 passengers. The lottery gave hope to millions. But 847 names are carved on a memorial wall, and those workers will never rise. Their families will never rise. Their children cannot win a lottery to a future we told them was theirs."
+
+He looks at Yusuf, somewhere in the crowd. At Teiti, still standing at the platform's edge. At Miriam, in the audience, who understands what this will cost him.
+
+"I cannot undo what was done. I cannot make the Consortium what Takeshi Yamazaki dreamed it would be. But I can stop pretending."
+
+The speech continues, but the rest is noise. Kenji has broken script. He has acknowledged the shadow. Whatever comes next—the board's fury, the institutional consequences—he has finally stopped performing triumph he doesn't feel.
+
+**Key beats:**
+- Kenji's public transformation
+- Breaking from institutional script
+- Acknowledgment of broken promises
+- Connection to Yusuf, Teiti, Miriam
+- The cost of honesty
+- Not redemption—but truth
+
+---
+
+### Chapter 46: The Student's Voice
 **POV:** Zara
 **Location:** After the ceremony, press area
 
@@ -699,7 +812,7 @@ A ceremony for the scholarship students follows—more photos, speeches, managed
 
 ---
 
-### Chapter 43: The Industrialist's Question
+### Chapter 47: The Industrialist's Question
 **POV:** Henrik
 **Location:** Business meetings, private moment
 
@@ -713,22 +826,23 @@ Henrik back in his element: meetings, negotiations, the orbital economy. Everyth
 
 ---
 
-### Chapter 44: The Truth Waiting
+### Chapter 48: The Truth Waiting
 **POV:** Amara
 **Location:** Hub communications center, video call
 
-Amara files more coverage—the arrival, the spectacle, the achievement. She files Teiti's speech in full, unedited—let the network decide what to cut. And then, encrypted, secured, she transmits the other files: Yusuf's interview, the worker testimony, everything. To her editor, with a plan. Not for immediate release—for when the moment is right. The story will be told. She calls Aïssatou: "I'm coming home." Her daughter's face appears—bright against the backdrop of Paris. The work continues.
+Amara files more coverage—the arrival, the spectacle, the achievement. And Kenji's deviation—the Chairman's unexpected honesty, already being spun by the Consortium as "emotional remarks." She files Teiti's speech in full, unedited—let the network decide what to cut. She files Kenji's unscripted words, too. And then, encrypted, secured, she transmits the other files: Yusuf's interview, the worker testimony, everything. To her editor, with a plan. Not for immediate release—for when the moment is right. The story will be told. She calls Aïssatou: "I'm coming home." Her daughter's face appears—bright against the backdrop of Paris. The work continues.
 
 **Key beats:**
 - Amara's delayed truth
 - Teiti's speech preserved
+- Kenji's deviation recorded
 - The story waiting
 - Return beginning
 - Mother and daughter
 
 ---
 
-### Chapter 45: Earth Below
+### Chapter 49: Earth Below
 **POV:** Teiti, then omniscient/poetic
 **Location:** Hub observation deck, final
 
@@ -753,16 +867,17 @@ The novel ends not with resolution but with continuation. The journey up has hap
 
 ### Act V Climax
 
-No explosion, no catastrophe—only the ongoing weight of what has been and what will be. Six people, changed or unchanged, facing their returns. Teiti has witnessed; Miriam has acknowledged; Yusuf has survived; Zara has chosen; Henrik is questioning; Amara is waiting. The story ends; the story continues. Babel stands.
+No explosion, no catastrophe—only the ongoing weight of what has been and what will be. Seven people, changed or unchanged, facing their returns. Teiti has witnessed; Miriam has acknowledged; Yusuf has survived; Kenji has broken from script and accepted the consequences; Zara has chosen; Henrik is questioning; Amara is waiting. The story ends; the story continues. Babel stands.
 
 ---
 
 ## Coda (Optional)
 
 A brief epilogue, months later:
-- Amara's documentary airs—Teiti's speech opens it
+- Amara's documentary airs—Teiti's speech opens it, Kenji's deviation features prominently
 - Yusuf's daughter wins a scholarship—on her own terms
 - Miriam's memoir is published—Teiti writes a foreword
+- Kenji steps down as Chairman; the Consortium spins it as retirement; he doesn't contest the narrative
 - Zara begins her own research project
 - Henrik makes a decision—we don't know which one
 - Teiti returns to the *maneaba* in the Workers' Quarter; the young listen to her stories

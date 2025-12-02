@@ -45,7 +45,8 @@ shadow-of-babel/
 │   │   ├── pov_3_zara.md         # Zara Chen-Okafor — The Scholarship Student
 │   │   ├── pov_4_henrik.md       # Henrik Lindqvist — The Industrialist
 │   │   ├── pov_5_amara.md        # Amara Diallo — The Journalist
-│   │   └── pov_6_teiti.md        # Teiti Nakibae — The Elder
+│   │   ├── pov_6_teiti.md        # Teiti Nakibae — The Elder
+│   │   └── pov_7_kenji.md        # Kenji Murakami — The Steward
 │   └── outline/              # Story structure and planning
 │       ├── structure.md          # Narrative framework, POV rotation, pacing
 │       └── act_breakdown.md      # Detailed 5-act chapter-by-chapter breakdown
@@ -54,7 +55,7 @@ shadow-of-babel/
 
 ---
 
-## The Six POV Characters
+## The Seven POV Characters
 
 Each character represents a different relationship to the elevator and its meaning. Their perspectives refract the themes of awe and shadow.
 
@@ -66,12 +67,19 @@ Each character represents a different relationship to the elevator and its meani
 | **Henrik Lindqvist** | The Industrialist | 44 | Swedish | Can privilege be wielded for change? |
 | **Amara Diallo** | The Journalist | 39 | Senegalese-French | What story do we tell, and who decides? |
 | **Teiti Nakibae** | The Elder | 71 | I-Kiribati | What is owed to those whose world was erased? |
+| **Kenji Murakami** | The Steward | 58 | Japanese | Can you protect a vision by betraying it? |
 
 ### Key Relationship: Miriam and Yusuf
-The confrontation between the architect who designed the elevator and the worker who built it (and was denied passage) is the **moral center of the novel**. This scene occurs in Act III and should be treated with particular care—it must be earned, complex, and unresolved.
+The confrontation between the architect who designed the elevator and the worker who built it (and was denied passage) is the **first moral center of the novel**. This scene occurs in Act III and should be treated with particular care—it must be earned, complex, and unresolved.
 
 ### Key Relationship: Teiti and Miriam
 Teiti represents the deepest cost of Babel—not just labor exploited, but a homeland destroyed. Her confrontation with Miriam asks the hardest question: did the creators know what would be lost, and did they care? This scene parallels the Miriam-Yusuf confrontation but asks about ecosystems and sovereignty rather than labor and promises.
+
+### Key Relationship: Kenji and Yusuf
+Nineteen years before the voyage, Yusuf saved Kenji's life during a construction accident. Kenji promised to fix the broken system; he failed. Now he has sent Yusuf a ticket—without a note, without explanation. Their confrontation asks: what do we owe those we couldn't save? Is the ticket guilt, hope, or a summons to judgment? This thread runs parallel to Miriam-Yusuf but is personal rather than systemic.
+
+### Key Relationship: Kenji and Miriam
+Fellow inheritors of Takeshi Yamazaki's vision. Miriam left when she couldn't change the system; Kenji stayed and was changed by it. Their honest conversation in Act IV asks which choice was the greater failure—the one who fled with moral clarity, or the one who remained with compromised hands.
 
 ---
 
@@ -164,6 +172,7 @@ The novel explores these through lived experience, not speeches:
 - **Henrik**: Smooth, strategic, self-narrating as protagonist
 - **Amara**: Observational, layered, professional distance cracking
 - **Teiti**: Patient, tidal, memory as resistance, grief worn gracefully
+- **Kenji**: Polished public performance, private exhaustion, self-justifying then self-critical
 
 ---
 
@@ -176,13 +185,16 @@ These are the structural pillars of the narrative:
 3. **First observation deck gathering** — Shared wonder across lines
 4. **The corporate reception** — Henrik's world, Zara's discomfort
 5. **Below decks** — Yusuf among workers and lottery winners
-6. **Miriam-Yusuf confrontation** — The moral center (Act III)
-7. **Technical crisis** — Miriam's expertise, competence and guilt
-8. **Teiti-Miriam confrontation** — The cost of creation: what was destroyed?
-9. **Weightlessness sequence** — Bodies transformed, perspectives shifted
-10. **Teiti's ceremony** — Speaking the names of the dead in zero-gravity
-11. **The overview effect** — Earth from above, the view that changes people
-12. **Hub arrival** — The future, bright and ominous; Teiti's witnessing speech
+6. **Miriam-Yusuf confrontation** — The first moral center (Act III)
+7. **Kenji-Yusuf confrontation** — "Why did you send me the ticket?" (Act III)
+8. **Technical crisis** — Miriam's expertise, Kenji's crisis management
+9. **Teiti-Miriam confrontation** — The cost of creation: what was destroyed?
+10. **Kenji-Miriam conversation** — Fellow inheritors, finally honest (Act IV)
+11. **Weightlessness sequence** — Bodies transformed, perspectives shifted
+12. **Teiti's ceremony** — Speaking the names of the dead in zero-gravity
+13. **The overview effect** — Earth from above, the view that changes people
+14. **Hub arrival** — The future, bright and ominous; Teiti's witnessing speech
+15. **Kenji's deviation** — The Chairman breaks from script; acknowledges broken promises
 
 ---
 

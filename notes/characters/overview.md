@@ -72,6 +72,16 @@ An I-Kiribati elder who helped build the anchor city on the ruins of her homelan
 
 ---
 
+### 7. Kenji Murakami — The Steward
+**File:** `pov_7_kenji.md`
+
+The Chairman of the Babel Consortium, Takeshi Yamazaki's chosen successor. Once a true believer who stayed in the system to protect the vision. Now a compromised steward who has made every small surrender required to hold power—and knows exactly what those surrenders cost. Sent Yusuf his ticket nineteen years after Yusuf saved his life.
+
+**Relationship to Awe:** Inherited the miracle; must perform reverence while knowing the rot
+**Relationship to Shadow:** He *is* the institution that casts the shadow—and knows it
+
+---
+
 ## Secondary Characters
 
 These appear across multiple POV sections but don't have their own chapters:
@@ -97,7 +107,6 @@ These appear across multiple POV sections but don't have their own chapters:
 
 ### Background Figures
 - **Takeshi Yamazaki**: The Founder, Japanese industrialist who drove the elevator's creation, deceased 2079 (see `founder_takeshi.md`)
-- **Kenji Murakami**: The Chairman, Takeshi's protégé turned Consortium leader, a believer who compromised (see `chairman_kenji.md`)
 
 ---
 
@@ -133,6 +142,11 @@ These appear across multiple POV sections but don't have their own chapters:
 - **Middle:** Confronts Miriam; observes the other confrontations; holds ceremony with I-Kiribati workers
 - **End:** Speaks at the arrival—not blessing, but witnessing; decides whether to stay or return
 
+### Kenji (Steward)
+- **Beginning:** Arrives as the face of the Consortium, privately exhausted; knows Yusuf is aboard
+- **Middle:** Confronted by Yusuf; reconnects honestly with Miriam; the mask becomes harder to wear
+- **End:** Deviates from script at the arrival ceremony; chooses honesty over survival; not redeemed, but finally trying
+
 ---
 
 ## Ensemble Dynamics
@@ -140,22 +154,44 @@ These appear across multiple POV sections but don't have their own chapters:
 ### Connections Between POVs
 - Miriam and Yusuf share history: she designed what he built
 - Miriam and Teiti share culpability: the architect and the displaced
+- Miriam and Kenji share inheritance: both received Takeshi's vision; she left, he stayed
 - Teiti and Yusuf share solidarity: both builders, both betrayed, different losses
-- Zara is traveling on a Stellar Foundation scholarship
+- Kenji and Yusuf share a life debt: Yusuf saved Kenji's life; Kenji sent the ticket
+- Zara is traveling on a Stellar Foundation scholarship (Kenji's institution)
 - Teiti sees in Zara a young person being used—potential mentorship
-- Amara has interviewed Miriam before; has files on Henrik
+- Amara has interviewed Miriam before; has files on Henrik; has sources inside Kenji's Consortium
 - Amara sees in Teiti the story that matters—if she can tell it honestly
-- All six will be in the same space at key moments
+- Kenji tolerates Henrik as a necessary ally; Henrik thinks they're friends
+- All seven will be in the same space at key moments
 - Their paths cross naturally through the climber's structure
 
 ### Thematic Counterpoints
 - Miriam and Henrik: Creators with different relationships to creation
 - Miriam and Teiti: Creator and cost—the architect and the erased homeland
+- Miriam and Kenji: Fellow inheritors—one who left, one who stayed
 - Yusuf and Zara: Different generations, different access points
 - Yusuf and Teiti: Shared rage, different losses—labor vs. homeland
+- Yusuf and Kenji: Personal debt vs. institutional failure
+- Kenji and Henrik: Both beneficiaries—one aware and guilty, one oblivious
 - Amara: The observer who becomes participant
 - Teiti: The witness who refuses to bless
+- Kenji: The institution with a human face, choosing whether to change
 - Each sees the others through their own lens
+
+### The Three Moral Triangles
+The novel has three interlocking moral confrontations:
+
+**Triangle 1: The Architects of Babel**
+- Miriam (designed it), Kenji (inherited it), Takeshi's ghost (dreamed it)
+- What happens to vision across generations?
+
+**Triangle 2: The Labor Reckoning**
+- Yusuf (the worker), Miriam (the architect), Kenji (the steward)
+- Who is responsible when a system fails people?
+
+**Triangle 3: The Indigenous Cost**
+- Teiti (the displaced), Kenji (the institution), President Teannaki (the negotiator)
+- What does complicity look like across cultures?
 
 ---
 
@@ -164,5 +200,6 @@ These appear across multiple POV sections but don't have their own chapters:
 - Each POV should have a distinct voice and rhythm
 - Chapters alternate between POVs, not strictly rotating
 - Some moments seen from multiple perspectives (key scenes)
-- Interior monologue varies by character: Miriam is analytical, Yusuf is visceral, Zara is questioning, Henrik is justifying, Amara is observational, Teiti is patient and tidal
-- All six are sympathetic; none are villains; all are compromised
+- Interior monologue varies by character: Miriam is analytical, Yusuf is visceral, Zara is questioning, Henrik is justifying, Amara is observational, Teiti is patient and tidal, Kenji is self-justifying then self-critical
+- All seven are sympathetic; none are villains; all are compromised
+- Kenji's chapters should be slightly fewer than the core six (4–5 vs 6–7)

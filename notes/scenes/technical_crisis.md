@@ -235,12 +235,14 @@ The Captain must trust Miriam's expertise over the automated systems. This inver
 - Yusuf's anger is still echoing: "You built this and walked away"
 - The crisis forces her to *stop* walking away—to engage with her creation
 
-### During (Chapter 23: Technical Crisis)
+### During (Chapter 29: Technical Crisis)
 - Miriam in her element
 - Brief interactions with other characters possible:
+  - **Kenji** arrives in the command center, managing public communications while privately terrified—not of the malfunction, but of what it reveals about the gap between his role (performance) and Miriam's (substance)
   - Zara could observe from the edges, seeing Miriam as a model of competence
   - Amara could try to get access, be denied
   - Henrik could be briefly seen, irrelevant—his money can't help here
+- Kenji watches Miriam work and sees what he gave up: expertise for performance, substance for symbol
 
 ### After (Act IV)
 - Miriam's status aboard changes—she's no longer just a guest

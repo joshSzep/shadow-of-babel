@@ -1,4 +1,4 @@
-# Kenji Murakami — The Chairman
+# Kenji Murakami — The Steward
 
 ## Basic Information
 
@@ -7,6 +7,13 @@
 **Nationality:** Japanese
 **Profession:** Chairman of the Babel Consortium
 **Role on Maiden Voyage:** Presiding Official, Ceremonial Host
+**POV Status:** Seventh POV Character
+
+---
+
+## Core Question
+
+**Can you protect a vision by betraying it—and is it too late to choose otherwise?**
 
 ---
 
@@ -279,7 +286,10 @@ He sends one to Yusuf. No note. Just the ticket.
 
 ## Thematic Role
 
-Kenji represents the **compromised inheritor**: the true believer who stayed in the system and was changed by it. He is the question of whether working from within transforms the institution or transforms the person.
+Kenji represents the **compromised steward**: the true believer who stayed in the system and was changed by it. He is the question of whether working from within transforms the institution or transforms the person.
+
+**Relationship to Awe:** Inherited the miracle; must perform reverence while knowing the rot
+**Relationship to Shadow:** He *is* the institution that casts the shadow—and knows it
 
 His journey asks:
 - Can you protect a vision by betraying it?
@@ -311,8 +321,23 @@ This is the moral weight at the center of Kenji's arc:
 - Kenji should be sympathetic but not excused
 - His compromises were real choices, made for understandable reasons
 - The tragedy is that he knows exactly what he's done
-- His relationship with Yusuf is not the central confrontation (that's Miriam-Yusuf), but it's a crucial secondary thread
+- His relationship with Yusuf is a crucial thread—parallel to but distinct from Miriam-Yusuf
 - He represents institutional failure with a human face
 - The question of whether he changes should remain genuinely open
 - His Japanese identity matters: duty, hierarchy, the weight of shame, the complexity of honor
+- His POV chapters should be slightly fewer than the core six (4–5 chapters vs. 6–7)
+- Focus on key moments: arrival, Yusuf confrontation, Miriam conversation, the decision to deviate
+
+---
+
+## Connection to Other POVs
+
+| Character | Connection | Tension |
+|-----------|------------|---------|
+| **Miriam** | Fellow inheritors of Takeshi's legacy | She left; he stayed. Who failed more? |
+| **Yusuf** | Life debt, passage debt, moral debt | "You saved my life; I couldn't save yours" |
+| **Henrik** | Board member, corporate ally | Kenji sees through Henrik; must work with him anyway |
+| **Teiti** | The Compact he enforces, the people displaced | Institutional violence made personal |
+| **Amara** | The journalist who might expose him | She has sources inside; he knows it |
+| **Zara** | The scholarship system he oversees | Another promise—will this one be kept? |
 

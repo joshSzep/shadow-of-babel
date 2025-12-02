@@ -64,7 +64,7 @@
 - Watched the elevator every day; never stopped wanting to ride it
 
 ### The Ticket
-- In 2066, during a site visit, Yusuf saved the life of Kenji Murakami—then Takeshi's protégé, now the Consortium Chairman
+- In 2066, during a site visit, Yusuf saved the life of Kenji Murakami—then Takeshi's protégé, now the Consortium Chairman (see `pov_7_kenji.md`)
 - They spent four hours trapped together; Yusuf showed him the reality of construction conditions
 - Kenji promised to fix things. He won some battles. He lost the war.
 - Yusuf wrote to him twice. Kenji never responded.
@@ -125,6 +125,15 @@
 - Workers on the climber recognize what he is: respect
 - Security watches him closely; his reputation precedes him
 - Eventually encounters Miriam—the architect, the symbol
+- Eventually confronts Kenji—the man who sent the ticket
+
+### Kenji Murakami (POV Character)
+- The man whose life Yusuf saved nineteen years ago
+- Kenji promised to fix the system; Yusuf watched him fail
+- Their confrontation in Act III asks: "Why did you send me the ticket?"
+- Yusuf doesn't forgive, but he sees the exhaustion, the trapped compromise
+- His judgment: "I saved your life. You owe me nothing for that. But you owe them everything."
+- One of the novel's three moral centers (alongside Miriam-Yusuf and Teiti-Miriam)
 
 ### The Encounter with Miriam
 - He knows who she is. Saw her on site once, years ago.
@@ -156,6 +165,12 @@
 - Encounters Henrik at a mixed-class event; controlled fury
 - Journalists approach; he considers what to say
 - A system hiccup—he notices before anyone else, old instincts
+- **The confrontation with Kenji:**
+  - The question he's carried for nineteen years: "Why did you send me the ticket?"
+  - Kenji cannot answer simply; the weight of broken promises
+  - Yusuf sees what the public doesn't: the exhaustion, the man who wanted to be better
+  - His verdict: "You owe them everything"—meaning the dead, the broken, the workers who never got tickets
+  - They part unreconciled; another confrontation without absolution
 
 ### Act IV: High Altitude
 - The confrontation with Miriam:
@@ -205,9 +220,10 @@
 3. **First touch of the interior**: Hand on a wall he helped build
 4. **The observation deck, alone**: Awe breaking through anger
 5. **The mixed-class event**: Encountering Henrik's world
-6. **The confrontation with Miriam**: The heart of his arc
-7. **The gift shop in orbit**: Something to bring home
-8. **The return journey contemplated**: What has changed?
+6. **The confrontation with Kenji**: "Why did you send me the ticket?" (Act III moral center)
+7. **The confrontation with Miriam**: The heart of his arc
+8. **The gift shop in orbit**: Something to bring home
+9. **The return journey contemplated**: What has changed?
 
 ---
 
