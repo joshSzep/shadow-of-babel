@@ -249,14 +249,30 @@ Yusuf among the lottery winners and workers. Different atmosphere: more honest, 
 **POV:** Teiti
 **Location:** A storage bay converted to meeting space
 
-Teiti gathers the eleven other I-Kiribati aboard. They meet in a storage bay that workers have cleared—a makeshift *maneaba*. She leads a ceremony: traditional songs, prayers, the naming of what was lost. The reef. The islands. The dead. They speak in Gilbertese, away from cameras, away from the Consortium's managed narrative. A young I-Kiribati woman weeps; Teiti holds her. This is what they carry. This is what the passengers above will never see.
+Teiti gathers the eleven other I-Kiribati aboard. They meet in a storage bay that workers have cleared—a makeshift *maneaba*. She leads a ceremony: traditional songs, prayers, the naming of what was lost. The reef. The islands. The dead. They speak in Gilbertese, away from cameras, away from the Consortium's managed narrative. Nei Teresia—born in Te Rarawa, who never knew the old Kiribati—weeps for a homeland she carries only in stories; Teiti holds her. This is what they carry. This is what the passengers above will never see.
+
+**The Twelve I-Kiribati Aboard:**
+- **Teiti Nakibae** (71) — Elder, leader, widow of Teriki
+- **Banuera Teannaki** (68) — Widow of anchor collapse victim, Teiti's closest companion
+- **Binata Eri** (64) — Midwife, delivered babies in the shadow of the elevator
+- **Toorua Kamwea** (61) — Traditional navigator, knows stars
+- **Kamoriki Tebuke** (58) — First gen construction worker, watched reef die
+- **Bauro Timon** (55) — Church leader, spiritual support
+- **Teuea Eritara** (52) — Subsea veteran, survived anchor collapse
+- **Tokintekai Bureieta** (49) — Union organizer
+- **Nei Teresia** (47) — Worker's daughter, born in Te Rarawa, never knew old Kiribati
+- **Temakei Nakibae** (45) — Teiti's nephew, carries Teriki's memory
+- **Tekaai Uera** (42) — Teacher, youngest representative
 
 **Key beats:**
-- I-Kiribati community aboard
-- Traditional practices surviving
-- The cost of Babel named aloud
+- I-Kiribati community aboard—a span of generations
+- Traditional practices surviving in steel and carbon
+- The cost of Babel named aloud in Gilbertese
 - Teiti as spiritual and cultural leader
+- The generational divide: those who remember vs. those who only inherit stories
+- Nei Teresia's grief for a homeland she never knew
 - A counterpoint to the official narrative
+- Preparation for the larger ceremony in Chapter 36
 
 ---
 
