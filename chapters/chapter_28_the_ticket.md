@@ -10,7 +10,7 @@ But Kenji had built this structure, in his way. He knew where the channels conne
 
 He stood at the access panel now, his hand on the release, his breath shallow in his chest.
 
-The ceremony had ended hours ago. Teiti Nakibae's voice still echoed in his skull—1,247 names spoken into the void, each one a stone dropped into the well of his conscience. He had stayed away from the chapel, but the names had found him anyway. They always found him.
+Eleven hours to arrival. Eleven hours until the Hub, the speeches, the cameras, the moment when this voyage became history. Four days he had avoided this. Four days of watching the altitude counter climb while the weight in his chest grew heavier.
 
 And somewhere below, in the economy section where the lottery winners and worker compensation passengers slept in narrow bunks, Yusuf Haddad was waiting.
 
